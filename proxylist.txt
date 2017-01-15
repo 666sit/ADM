@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-01-11 06:00:02
+!--- 2017-01-16 06:00:04
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -39,6 +39,7 @@ desipro.de
 dish.com
 img.dlsite.jp
 dmm.co.jp
+www.dmm.com
 eesti.ee
 expekt.com
 extmatrix.com
@@ -1054,17 +1055,16 @@ chinafreepress.org
 chinagate.com
 chinageeks.org
 chinagfw.org
+chinagonet.com
 chinagreenparty.org
 chinahorizon.org
 chinahush.com
+chinainperspective.com
+chinainterimgov.org
 chinalaborwatch.org
 chinalawtranslate.com
 chinapost.com.tw
 chinaxchina.com
-chinainperspective.com
-chinainperspective.net
-chinainperspective.org
-chinainterimgov.org
 chinalawandpolicy.com
 chinamule.com
 chinamz.org
@@ -1895,9 +1895,11 @@ hacg.in
 hacg.li
 hacg.red
 hacken.cc
+hacker.org
 hackthatphone.net
 hahlo.com
 hakkatv.org.tw
+handcraftedsoftware.org
 bbs.hanminzu.org
 hanunyi.com
 ae.hao123.com
@@ -2307,6 +2309,7 @@ juliereyc.com
 junauza.com
 june4commemoration.org
 junefourth-20.net
+juoaa.com
 justfreevpn.com
 justicefortenzin.org
 justpaste.it
@@ -2702,6 +2705,7 @@ myfreepaysite.com
 myfreshnet.com
 forum.mymaji.com
 mymediarom.com
+mymoe.moe
 mymusic.net.tw
 myparagliding.com
 mypopescu.com
@@ -2734,6 +2738,7 @@ cyberghost.natado.com
 national-lottery.co.uk
 news.nationalgeographic.com
 nationsonline.org
+line.naver.jp
 navyfamily.navy.mil
 navyreserve.navy.mil
 nko.navy.mil
@@ -3230,7 +3235,6 @@ rfaweb.org
 rferl.org
 rfi.fr
 rfi.my
-rhcloud.com
 vds.rightster.com
 rigpa.org
 rileyguide.com
@@ -4258,6 +4262,7 @@ weekmag.info
 wefightcensorship.org
 wefong.com
 weiboleak.com
+weihuo.org
 weijingsheng.org
 weiming.info
 weiquanwang.org
