@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-01-16 06:00:04
+!--- 2017-01-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -99,6 +99,7 @@ muzu.tv
 mvg.jp
 nationwide.com
 www.nbc.com
+neo-miracle.com
 netflix.com
 mo.nightlife141.com
 nordstrom.com
@@ -110,6 +111,7 @@ s1.nudezz.com
 nusatrip.com
 nuuvem.com
 omni7.jp
+onapp.com
 ontrac.com
 pandora.com
 pandora.tv
@@ -123,6 +125,7 @@ rdio.com
 sadistic-v.com
 shutterstock.com
 slacker.com
+sm-miracle.com
 spotify.com
 springboardplatform.com
 sprite.org
@@ -385,6 +388,9 @@ goo.gl
 google.ae
 google.as
 google.am
+google.at
+google.az
+google.ba
 google.cat
 google.cd
 google.ci
@@ -401,6 +407,7 @@ google.fi
 google.fm
 google.fr
 google.gg
+google.gl
 google.ie
 google.is
 google.it
@@ -414,6 +421,7 @@ google.sc
 google.sh
 google.sk
 google.sm
+google.sn
 google.tk
 google.to
 google.tt
@@ -471,6 +479,7 @@ tensorflow.org
 thinkwithgoogle.com
 tiltbrush.com
 waveprotocol.org
+waymo.com
 webmproject.org
 webrtc.org
 whatbrowser.org
@@ -995,7 +1004,7 @@ ccvoice.ca
 ccw.org.tw
 cgdepot.org
 cdbook.org
-cdd.me
+cdcparty.com
 cdef.org
 cdig.info
 cdjp.org
@@ -1095,7 +1104,7 @@ chinesetalks.net
 chingcheong.com
 chinman.net
 chithu.org
-chn.chosun.com
+cnnews.chosun.com
 chrdnet.com
 christianfreedom.org
 christianstudy.com
@@ -1211,6 +1220,7 @@ cytode.us
 ifan.cz.cc
 mike.cz.cc
 nic.cz.cc
+d-fukyu.com
 cl.d0z.net
 d100.net
 d2bay.com
@@ -1902,6 +1912,7 @@ hakkatv.org.tw
 handcraftedsoftware.org
 bbs.hanminzu.org
 hanunyi.com
+hao.news
 ae.hao123.com
 ar.hao123.com
 br.hao123.com
@@ -2066,6 +2077,7 @@ huaglad.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
+bbs.huasing.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -2200,6 +2212,7 @@ iphonix.fr
 ipicture.ru
 ipjetable.net
 ipobar.com
+ipoock.com
 iportal.me
 ippotv.com
 ipredator.se
@@ -2304,11 +2317,13 @@ journalchretien.net
 journalofdemocracy.org
 joymiihub.com
 jpopforum.net
+jubushoushen.com
 juhuaren.com
 juliereyc.com
 junauza.com
 june4commemoration.org
 junefourth-20.net
+bbs.junglobal.net
 juoaa.com
 justfreevpn.com
 justicefortenzin.org
@@ -2367,7 +2382,9 @@ konachan.com
 koolsolutions.com
 koornk.com
 koranmandarin.com
+korenan2.com
 gojet.krtco.com.tw
+ksdl.org
 ksnews.com.tw
 ktzhk.com
 kui.name
@@ -2375,7 +2392,6 @@ kun.im
 kurashsultan.com
 kurtmunger.com
 kusocity.com
-kusos.com
 kwcg.ca
 kwongwah.com.my
 kyofun.com
@@ -2772,8 +2788,8 @@ newipnow.com
 newlandmagazine.com.au
 newnews.ca
 news100.com.tw
+newschinacomment.org
 newscn.org
-newsminer.com
 newspeak.cc
 newsancai.com
 newsdh.com
@@ -3496,12 +3512,10 @@ soundcloud.com
 soundofhope.kr
 soundofhope.org
 soupofmedia.com
-nchc.dl.sourceforge.net
 sourcewadio.com
 southnews.com.tw
 sowers.org.hk
 wlx.sowiki.net
-space-scape.com
 spankbang.com
 spankwire.com
 spb.com
@@ -3898,6 +3912,7 @@ tuidang.org
 tuidang.se
 bbs.tuitui.info
 tumutanzi.com
+tumview.com
 tunein.com
 tunnelbear.com
 tuo8.cc
@@ -3908,6 +3923,7 @@ tuo8.in
 tuo8.ninja
 tuo8.org
 tuo8.pw
+tuo8.space
 tuitwit.com
 turansam.org
 turbobit.net
@@ -3920,7 +3936,6 @@ tuzaijidi.com
 tw01.org
 tumblr.com
 tv.com
-tv-intros.com
 tvants.com
 forum.tvb.com
 news.tvb.com
@@ -4314,6 +4329,8 @@ zh.wikivoyage.org
 zh.wiktionary.org
 zh.wikipedia.org
 zh.m.wikipedia.org
+wuu.wikipedia.org
+zh-yue.wikipedia.org
 wikiwiki.jp
 casino.williamhill.com
 sports.williamhill.com
@@ -4449,6 +4466,7 @@ hk.rd.yahoo.com
 hk.search.yahoo.com
 hk.video.news.yahoo.com
 meme.yahoo.com
+tw.answers.yahoo.com
 tw.knowledge.yahoo.com
 tw.mall.yahoo.com
 tw.yahoo.com
