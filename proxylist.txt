@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-01 06:00:02
+!--- 2017-02-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -13,6 +13,7 @@ btaia.com
 bt2mag.com
 iobit.com
 moz.com
+2dbook.com
 4tern.com
 85.17.73.31
 adorama.com
@@ -76,6 +77,7 @@ javhub.net
 javhuge.com
 javlibrary.com
 jcpenney.com
+jims.net
 juliepost.com
 kawaiikawaii.jp
 khatrimaza.org
@@ -358,11 +360,14 @@ oculus.com
 1e100.net
 abc.xyz
 admob.com
+adsense.com
 agoogleaday.com
 ampproject.org
 android.com
 androidify.com
 appspot.com
+blogspot.hk
+blogspot.jp
 certificate-transparency.org
 chrome.com
 chromecast.com
@@ -502,6 +507,7 @@ zynamics.com
 kat.cr
 naughtyamerica.com
 v2ex.com
+030buy.com
 0rz.tw
 0to255.com
 1-apple.com.tw
@@ -1121,6 +1127,7 @@ christianfreedom.org
 christianstudy.com
 christusrex.org
 chromeadblock.com
+chubold.com
 chubun.com
 chuizi.net
 christiantimes.org.hk
@@ -1349,6 +1356,7 @@ dorjeshugden.com
 dotplane.com
 dotsub.com
 dougscripts.com
+douhokanko.net
 doujincafe.com
 dowei.org
 dphk.org
@@ -1360,6 +1368,7 @@ dreammask.org
 drepung.org
 drgan.net
 drmingxia.org
+dropbooks.tv
 dropbox.com
 api.dropboxapi.com
 dropboxusercontent.com
@@ -1402,6 +1411,7 @@ e-classical.com.tw
 e-gold.com
 g.e-hentai.org
 lofi.e-hentai.org
+e-hentaidb.com
 e-info.org.tw
 e-traderland.net
 e-zone.com.hk
@@ -1485,6 +1495,7 @@ erights.net
 erktv.com
 ernestmandel.org
 erodaizensyu.com
+erodoujinlog.com
 erodoujinworld.com
 eromanga-kingdom.com
 eromangadouzin.com
@@ -2316,6 +2327,7 @@ jingsim.org
 zhao.jinhai.de
 jingpin.org
 jinpianwang.com
+jinroukong.com
 ac.jiruan.net
 jitouch.com
 jizzthis.com
@@ -2348,6 +2360,7 @@ juyuange.org
 juziyue.com
 jwmusic.org
 jyxf.net
+k-doujin.net
 ka-wai.com
 kagyuoffice.org
 kagyuoffice.org.tw
@@ -2466,6 +2479,7 @@ abitno.linpie.com
 line.me
 linglingfa.com
 lingvodics.com
+link-o-rama.com
 linkideo.com
 api.linksalpha.com
 apidocs.linksalpha.com
@@ -2660,7 +2674,6 @@ mizzmona.com
 mk5000.com
 mlcool.com
 mmaaxx.com
-plurktop.mmdays.com
 mmmca.com
 mobatek.net
 mobile01.com
@@ -3042,6 +3055,7 @@ percy.in
 perfectgirls.net
 perfectvpn.net
 persecutionblog.com
+persiankitty.com
 pfd.org.hk
 phapluan.org
 phayul.com
@@ -3467,6 +3481,7 @@ xskywalker.com
 m.slandr.net
 slavasoft.com
 slaytizle.com
+sleazydream.com
 slheng.com
 slideshare.net
 forum.slime.com.tw
@@ -3735,6 +3750,7 @@ thinkingtaiwan.com
 thisav.com
 thlib.org
 thomasbernhard.org
+thongdreams.com
 threatchaos.com
 throughnightsfire.com
 thumbzilla.com
