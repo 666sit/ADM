@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-06 06:00:02
+!--- 2017-02-11 06:00:03
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -35,6 +35,7 @@ centauro.com.br
 images.comico.tw
 static.comico.tw
 crossfire.co.kr
+d2pass.com
 darpa.mil
 desipro.de
 dish.com
@@ -123,6 +124,7 @@ pure18.com
 qq.co.za
 r18.com
 radiko.jp
+ramcity.com.au
 rd.com
 rdio.com
 sadistic-v.com
@@ -502,6 +504,7 @@ youtu.be
 youtube.com
 youtube-nocookie.com
 youtubeeducation.com
+youtubegaming.com
 ytimg.com
 zynamics.com
 kat.cr
@@ -649,6 +652,7 @@ alasbarricadas.org
 alexlur.org
 alforattv.net
 alhayat.com
+alicejapan.co.jp
 aliengu.com
 alkasir.com
 allconnected.co
@@ -679,6 +683,7 @@ amnesty.tw
 amnestyusa.org
 amnyemachen.org
 amoiist.com
+andygod.com
 annatam.com
 anchorfree.com
 ancsconf.org
@@ -724,6 +729,7 @@ appsocks.net
 appsto.re
 archives.gov
 archive.is
+archive.fo
 archive.org
 arctosia.com
 areca-backup.org
@@ -790,6 +796,7 @@ bannednews.org
 barenakedislam.com
 barnabu.co.uk
 bartvpn.com
+bastillepost.com
 bayvoice.net
 dajusha.baywords.com
 bbchat.tv
@@ -1136,6 +1143,7 @@ churchinhongkong.org
 cineastentreff.de
 cipfg.org
 circlethebayfortibet.org
+citizencn.com
 citizenlab.org
 www.citizenlab.org
 citizenscommission.hk
@@ -1144,6 +1152,7 @@ city365.ca
 city9x.com
 citytalk.tw
 civicparty.hk
+civildisobediencemovement.org
 civilhrfront.org
 civiliangunner.com
 civilmedia.tw
@@ -1282,6 +1291,7 @@ daliulian.org
 danke4china.net
 danwei.org
 daolan.net
+daozhongxing.org
 darktoy.net
 dastrassi.org
 blog.daum.net
@@ -1514,6 +1524,7 @@ etvonline.hk
 eu.org
 eucasino.com
 eulam.com
+eurekavpt.com
 eeas.europa.eu
 evschool.net
 exblog.jp
@@ -1549,6 +1560,7 @@ falundafa-pa.net
 falun-ny.net
 falundafaindia.org
 falundafamuseum.org
+falungong.club
 falungong.de
 falungong.org.uk
 falunhr.org
@@ -1604,6 +1616,7 @@ fevernet.com
 ff.im
 fffff.at
 fflick.com
+ffvpn.com
 fgmtv.net
 fgmtv.org
 fhreports.net
@@ -1614,7 +1627,6 @@ fileserve.com
 fillthesquare.org
 filmingfortibet.org
 filthdump.com
-finalion.jp
 finchvpn.com
 findmespot.com
 fingerdaily.com
@@ -1775,6 +1787,8 @@ gaybubble.com
 gaycn.net
 gaymap.cc
 gaytube.com
+images-gaytube.com
+gaywatch.com
 gazotube.com
 gcc.org.hk
 gclooney.com
@@ -1811,6 +1825,7 @@ ggssl.com
 ghost.org
 ghostpath.com
 ghut.org
+gifree.com
 giga-web.jp
 |tw.gigacircle.com
 cn.giganews.com
@@ -1819,10 +1834,10 @@ girlbanker.com
 git.io
 softwaredownload.gitbooks.io
 gist.github.com
+sodatea.github.io
 wsgzao.github.io
 gizlen.net
 gjczz.com
-glennhilton.com
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -2024,6 +2039,7 @@ hkbc.net
 hkbf.org
 hkbookcity.com
 hkchurch.org
+hkci.org.hk
 hkcmi.edu
 hkcnews.com
 hkcoc.com
@@ -2136,6 +2152,7 @@ i2runner.com
 i818hk.com
 i-cable.com
 i-part.com.tw
+iamtopone.com
 iask.ca
 iask.bz
 iav19.com
@@ -2163,7 +2180,7 @@ idouga.com
 idreamx.com
 forum.idsam.com
 idv.tw
-ieasynews.net
+ieasy5.com
 ied2k.net
 ienergy1.com
 if.ttt
@@ -2310,6 +2327,8 @@ jbtalks.com
 jbtalks.my
 jdwsy.com
 jeanyim.com
+jfqu36.club
+jfqu37.xyz
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
@@ -2595,7 +2614,6 @@ medium.com
 meetav.com
 meetup.com
 mefeedia.com
-megaporn.com
 megaproxy.com
 megarotic.com
 megavideo.com
@@ -2732,6 +2750,7 @@ myaudiocast.com
 myav.com.tw
 mybbs.us
 myca168.com
+mycanadanow.com
 bbs.mychat.to
 mychinamyhome.com
 mychinanet.com
@@ -2898,6 +2917,7 @@ nyaa.se
 nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
+nytchina.com
 nytcn.me
 nytco.com
 nyti.ms
@@ -2916,8 +2936,10 @@ ocreampies.com
 october-review.org
 offbeatchina.com
 officeoftibet.com
+ofile.org
 ogaoga.org
 twtr2src.ogaoga.org
+ogate.org
 www2.ohchr.org
 oikos.com.tw
 oiktv.com
@@ -2987,6 +3009,7 @@ oyghan.com
 ozchinese.com
 ow.ly
 bbs.ozchinese.com
+ozvoice.org
 ozxw.com
 ozyoyo.com
 pachosting.com
@@ -3392,6 +3415,7 @@ sftindia.org
 sftuk.org
 shadow.ma
 shadowsky.xyz
+www.shadowsocks.com
 shadowsocks.com
 shadowsocks.org
 cn.shafaqna.com
@@ -3601,6 +3625,7 @@ streema.com
 cn.streetvoice.com
 cn2.streetvoice.com
 tw.streetvoice.com
+strikingly.com
 strongvpn.com
 strongwindpress.com
 student.tw
@@ -3945,12 +3970,12 @@ tuo8.in
 tuo8.ninja
 tuo8.org
 tuo8.pw
+tuo8.red
 tuo8.space
 tuitwit.com
 turansam.org
 turbobit.net
 turbohide.com
-turningtorso.com
 tushycash.com
 tuvpn.com
 tuzaijidi.com
@@ -4182,10 +4207,10 @@ videodetective.com
 videomega.tv
 videomo.com
 videopediaworld.com
+videopress.com
 vidinfo.org
 vietdaikynguyen.com
 vijayatemple.org
-viki.com
 vimeo.com
 vimperator.org
 vincnd.com
@@ -4218,7 +4243,8 @@ voxer.com
 voy.com
 vpn4all.com
 vpnaccount.org
-www.vpncup.com
+vpnaccounts.com
+vpncup.com
 vpnbook.com
 vpncoupons.com
 vpndada.com
@@ -4370,6 +4396,7 @@ witopia.net
 wjbk.org
 wn.com
 wnacg.com
+wnacg.org
 wo.tc
 woeser.com
 woesermiddle-way.net
@@ -4505,6 +4532,7 @@ yanghengjun.com
 yangjianli.com
 yasni.co.uk
 yasukuni.or.jp
+yayabay.com
 ydy.com
 yeahteentube.com
 yeelou.com
