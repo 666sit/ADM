@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-11 06:00:03
+!--- 2017-02-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -40,6 +40,7 @@ darpa.mil
 desipro.de
 dish.com
 img.dlsite.jp
+share.dmhy.org
 dmm.co.jp
 www.dmm.com
 eesti.ee
@@ -139,11 +140,15 @@ swagbucks.com
 switch1.jp
 tapanwap.com
 target.com
+thebodyshop-usa.com
 tma.co.jp
+tracfone.com
+tryheart.jp
 turntable.fm
 twerkingbutt.com
 vegasred.com
 vevo.com
+vip-enterprise.com
 viu.tv
 ecsm.vs.com
 wanz-factory.com
@@ -467,6 +472,7 @@ googleusercontent.com
 googlevideo.com
 googlezip.net
 groups.google.cn
+gstatic.com
 gvt0.com
 gvt1.com
 gvt3.com
@@ -615,6 +621,7 @@ aceros-de-hispania.com
 acevpn.com
 acg18.me
 acgkj.com
+acnw.com.au
 actimes.com.au
 activpn.com
 aculo.us
@@ -658,6 +665,7 @@ alkasir.com
 allconnected.co
 alldrawnsex.com
 allfinegirls.com
+allgirlmassage.com
 allgirlsallowed.org
 alliance.org.hk
 allinfa.com
@@ -722,8 +730,9 @@ apiary.io
 apigee.com
 apk-dl.com
 apkdler.com
-appdownloader.net
+aplusvpn.com
 apkpure.com
+appdownloader.net
 appledaily.com
 appsocks.net
 appsto.re
@@ -751,15 +760,14 @@ japanfirst.asianfreeforum.com
 asiansexdiary.com
 asianwomensfilm.de
 asiatgp.com
+asiatoday.us
 askstudent.com
 askynz.net
 assembla.com
-astonmartinnews.com
 astrill.com
 atc.org.au
 atchinese.com
 atgfw.org
-atj.org.tw
 atlaspost.com
 atdmt.com
 atnext.com
@@ -947,6 +955,7 @@ btku.me
 btku.org
 btspread.com
 budaedu.org
+buddhanet.com.tw
 buddhistchannel.tv
 buffered.com
 bullog.org
@@ -1128,6 +1137,7 @@ chinesetalks.net
 chingcheong.com
 chinman.net
 chithu.org
+chn.chosun.com
 cnnews.chosun.com
 chrdnet.com
 christianfreedom.org
@@ -1140,6 +1150,7 @@ chuizi.net
 christiantimes.org.hk
 chrlawyers.hk
 churchinhongkong.org
+cienen.com
 cineastentreff.de
 cipfg.org
 circlethebayfortibet.org
@@ -1459,7 +1470,6 @@ eic-av.com
 eisbb.com
 eksisozluk.com
 electionsmeter.com
-elephantvpn.com
 elgoog.im
 elpais.com
 eltondisney.com
@@ -1631,7 +1641,6 @@ finchvpn.com
 findmespot.com
 fingerdaily.com
 finler.net
-firefoxfan.cc
 fireofliberty.org
 firetweet.io
 flagsonline.it
@@ -1733,6 +1742,7 @@ fring.com
 fromchinatousa.net
 frommel.net
 frontlinedefenders.org
+frootvpn.com
 fscked.org
 fsurf.com
 ftchinese.com
@@ -1827,13 +1837,14 @@ ghostpath.com
 ghut.org
 gifree.com
 giga-web.jp
-|tw.gigacircle.com
+tw.gigacircle.com
 cn.giganews.com
 gigporno.ru
 girlbanker.com
 git.io
 softwaredownload.gitbooks.io
 gist.github.com
+haoel.github.io
 sodatea.github.io
 wsgzao.github.io
 gizlen.net
@@ -1844,6 +1855,7 @@ globalmuseumoncommunism.org
 globalrescue.net
 globaltm.org
 globalvoicesonline.org
+globalvpn.net
 glock.com
 gluckman.com
 gmbd.cn
@@ -1926,7 +1938,7 @@ grangorz.org
 graylog2.org
 greatfire.org
 greatroc.tw
-gstatic.com
+gts-vpn.com
 gu-chu-sum.org
 guishan.org
 gunsamerica.com
@@ -2004,6 +2016,7 @@ app.heywire.com
 heyzo.com
 hgseav.com
 hhdcb3office.org
+hhthesakyatrizin.org
 hi-on.org.tw
 hidden-advent.org
 hidecloud.com
@@ -2034,6 +2047,8 @@ hjclub.info
 hk-pub.com
 hk01.com
 hk32168.com
+hkacg.com
+hkacg.net
 hkatvnews.com
 hkbc.net
 hkbf.org
@@ -2142,7 +2157,7 @@ hutong9.net
 huyandex.com
 hwayue.org.tw
 hwinfo.com
-fang-lizhi.hxwk.org
+hxwk.org
 hxwq.org
 hyperrate.com
 ebook.hyread.com.tw
@@ -2266,6 +2281,7 @@ chinese.irib.ir
 ironicsoftware.com
 ironbigfools.compython.net
 ironpython.net
+ironsocket.com
 is.gd
 islam.org.hk
 islamawareness.net
@@ -2381,6 +2397,10 @@ jwmusic.org
 jyxf.net
 k-doujin.net
 ka-wai.com
+kagyu.org
+kagyu.org.za
+kagyumonlam.org
+kagyunews.com.hk
 kagyuoffice.org
 kagyuoffice.org.tw
 kaiyuan.de
@@ -2450,6 +2470,7 @@ ladbrokes.com
 labiennale.org
 lagranepoca.com
 lalulalu.com
+lama.com.tw
 lamayeshe.com
 www.lamenhu.com
 lamnia.co.uk
@@ -2481,6 +2502,7 @@ lenwhite.com
 lerosua.org
 blog.lester850.info
 lesoir.be
+letou.com
 letscorp.net
 lhakar.org
 lhasocialwork.org
@@ -2646,6 +2668,7 @@ mh4u.org
 mhradio.org
 michaelanti.com
 michaelmarketl.com
+microvpn.com
 middle-way.net
 mihk.hk
 mihr.com
@@ -3025,6 +3048,7 @@ eriversoft.com
 paldengyal.com
 paljorpublications.com
 paltalk.com
+pangci.net
 panacom.co.jp
 pandapow.net
 pandavpn-jp.com
@@ -3349,6 +3373,7 @@ cdn1.lp.saboom.com
 sacom.hk
 sadpanda.us
 safervpn.com
+saintyculture.com
 saiq.me
 sakuralive.com
 sakya.org
@@ -3384,6 +3409,7 @@ secretgarden.no
 secretsline.biz
 securetunnel.com
 securitykiss.com
+seed4.me
 seesmic.com
 seevpn.com
 seezone.net
@@ -3413,13 +3439,14 @@ sfileydy.com
 sfshibao.com
 sftindia.org
 sftuk.org
+shadeyouvpn.com
 shadow.ma
 shadowsky.xyz
 www.shadowsocks.com
 shadowsocks.com
 shadowsocks.org
 cn.shafaqna.com
-shahamat-english.com
+shambalapost.com
 shambhalasun.com
 shangfang.org
 shapeservices.com
@@ -3451,7 +3478,9 @@ showhaotu.com
 showtime.jp
 ch.shvoong.com
 shwchurch.org
+www.shwchurch.org
 shwchurch3.com
+siddharthasintent.org
 sidelinesnews.com
 sidelinessportseatery.com
 sijihuisuo.club
@@ -3513,6 +3542,7 @@ slinkset.com
 slickvpn.com
 slutload.com
 smartdnsproxy.com
+smarthide.com
 smchbooks.com
 smh.com.au
 smhric.org
@@ -3604,6 +3634,8 @@ static-economist.com
 stc.com.sa
 steamcommunity.com
 steel-storm.com
+steganos.com
+steganos.net
 stepchina.com
 ny.stgloballink.com
 hd.stheadline.com
@@ -3635,6 +3667,7 @@ stupidvideos.com
 panamapapers.sueddeutsche.de
 sugarsync.com
 sugobbs.com
+sugumiru18.com
 suissl.com
 summify.com
 sumrando.com
@@ -3642,6 +3675,7 @@ sun1911.com
 sunporno.com
 sunmedia.ca
 sunskyforum.com
+sunta.com.tw
 sunvpn.net
 suoluo.org
 supervpn.net
@@ -3713,6 +3747,7 @@ tbi.org.hk
 tbicn.org
 tbjyt.org
 tbpic.info
+tbrc.org
 tbs-rainbow.org
 tbsec.org
 tbskkinabalu.page.tl
@@ -3738,10 +3773,10 @@ telegram.org
 telegramdownload.com
 telegraph.co.uk
 tenacy.com
+tenzinpalmo.com
 tew.org
 thaicn.com
 theatrum-belli.com
-thebodyshop-usa.com
 theblemish.com
 thebcomplex.com
 thebobs.com
@@ -3756,7 +3791,6 @@ thehots.info
 thehousenews.com
 thehun.net
 theinitium.com
-thelifeyoucansave.com
 thenewslens.com
 thepiratebay.org
 theportalwiki.com
@@ -3814,6 +3848,8 @@ tibetan.fr
 tibetan-alliance.org
 tibetanarts.org
 tibetanbuddhistinstitute.org
+tibetancommunity.org
+tibetanjournal.com
 tibetanlanguage.org
 tibetanliberation.org
 tibetcollection.com
@@ -3898,7 +3934,6 @@ toodoc.com
 toonel.net
 top81.ws
 topnews.in
-topshare.us
 torguard.net
 topshareware.com
 topsy.com
@@ -3929,9 +3964,7 @@ trt.net.tr
 trtc.com.tw
 truebuddha-md.org
 trulyergonomic.com
-trustedbi.com
 truth101.co.tv
-truthcn.com
 truthontour.org
 truveo.com
 tsctv.net
@@ -3944,12 +3977,10 @@ tt1069.com
 tttan.com
 bb.ttv.com.tw
 tu8964.com
-tuanzt.com
 tubaholic.com
 tube.com
 tube8.com
 tube911.com
-tubecao.com
 tubecup.com
 tubegals.com
 tubeislam.com
@@ -3977,6 +4008,7 @@ turansam.org
 turbobit.net
 turbohide.com
 tushycash.com
+app.tutanota.com
 tuvpn.com
 tuzaijidi.com
 tw01.org
@@ -4244,6 +4276,7 @@ voy.com
 vpn4all.com
 vpnaccount.org
 vpnaccounts.com
+vpncomparison.org
 vpncup.com
 vpnbook.com
 vpncoupons.com
@@ -4258,6 +4291,7 @@ vpngratis.net
 vpnhq.com
 vpnmaster.com
 vpninja.net
+vpnintouch.com
 vpnintouch.net
 vpnpick.com
 vpnpop.com
@@ -4265,10 +4299,13 @@ vpnpronet.com
 vpnreactor.com
 vpnreviewz.com
 vpnsecure.me
+vpnshazam.com
 vpnsp.com
+vpntraffic.com
 vpntunnel.com
 vpnuk.info
 vpnvip.com
+vpnworldwide.com
 vporn.com
 vpser.net
 vraiesagesse.net
@@ -4418,6 +4455,7 @@ wow-life.net
 wowlegacy.ml
 wowporn.com
 wowgirls.com
+wowrk.com
 woxinghuiguo.com
 woyaolian.org
 wpoforum.com
