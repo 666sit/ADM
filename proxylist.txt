@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-16 06:00:02
+!--- 2017-02-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -428,6 +428,7 @@ google.is
 google.it
 google.jo
 google.kz
+google.lv
 google.mn
 google.ms
 google.nl
@@ -470,6 +471,7 @@ googlesource.com
 googlesyndication.com
 googleusercontent.com
 googlevideo.com
+googleweblight.com
 googlezip.net
 groups.google.cn
 gstatic.com
@@ -540,6 +542,7 @@ v2ex.com
 zhao.1984.city
 1984bbs.com
 1984bbs.org
+1991way.com
 1998cdp.org
 1bao.org
 1eew.com
@@ -564,6 +567,7 @@ zhao.1984.city
 3a5a.com
 3arabtv.com
 3boys2girls.com
+3proxy.ru
 3ren.ca
 3tui.net
 4bluestones.biz
@@ -691,6 +695,7 @@ amnesty.tw
 amnestyusa.org
 amnyemachen.org
 amoiist.com
+androidplus.co
 andygod.com
 annatam.com
 anchorfree.com
@@ -711,6 +716,7 @@ answering-islam.org
 www.antd.org
 anthonycalzadilla.com
 anti1984.com
+antichristendom.com
 antiwave.net
 anysex.com
 aobo.com.au
@@ -730,8 +736,10 @@ apiary.io
 apigee.com
 apk-dl.com
 apkdler.com
-aplusvpn.com
+apkmonk.com
+apkplz.com
 apkpure.com
+aplusvpn.com
 appdownloader.net
 appledaily.com
 appsocks.net
@@ -1417,7 +1425,6 @@ dupola.net
 dushi.ca
 dvorak.org
 dw.com
-www.dw.com
 dw.de
 dw-world.com
 dw-world.de
@@ -1453,6 +1460,7 @@ ebony-beauty.com
 ebookbrowse.com
 ebookee.com
 ecfa.org.tw
+ecimg.tw
 ecministry.net
 economist.com
 bbs.ecstart.com
@@ -1475,6 +1483,7 @@ elpais.com
 eltondisney.com
 emaga.com
 emilylau.org.hk
+emanna.com
 empfil.com
 emule-ed2k.com
 emulefans.com
@@ -1543,6 +1552,7 @@ exchristian.hk
 blog.excite.co.jp
 exmormon.org
 expatshield.com
+expecthim.com
 experts-univers.com
 exploader.net
 expressvpn.com
@@ -1630,6 +1640,7 @@ ffvpn.com
 fgmtv.net
 fgmtv.org
 fhreports.net
+figprayer.com
 fileflyer.com
 feeds.fileforum.com
 files2me.com
@@ -1940,6 +1951,8 @@ greatfire.org
 greatroc.tw
 gts-vpn.com
 gu-chu-sum.org
+guaguass.com
+guaguass.org
 guishan.org
 gunsamerica.com
 guruonline.hk
@@ -2372,6 +2385,7 @@ jkforum.net
 jma.go.jp
 research.jmsc.hku.hk
 weiboscope.jmsc.hku.hk
+jmscult.com
 joachims.org
 jobso.tv
 joeedelman.com
@@ -2628,6 +2642,7 @@ mcadforums.com
 mcfog.com
 mcreasite.com
 md-t.org
+meansys.com
 media.org.hk
 mediachinese.com
 mediafire.com
@@ -3169,6 +3184,7 @@ porntvblog.com
 pornvisit.com
 portablevpn.nl
 poskotanews.com
+post01.com
 post852.com
 postadult.com
 postimg.org
@@ -3235,6 +3251,7 @@ pureconcepts.net
 purepdf.com
 purevpn.com
 purplelotus.org
+pursuestar.com
 pussyspace.com
 putihome.org
 putlocker.com
@@ -3257,6 +3274,7 @@ efksoft.com
 qstatus.com
 qtweeter.com
 qtrac.eu
+quannengshen.org
 quitccp.net
 quitccp.org
 quran.com
@@ -4194,6 +4212,7 @@ usmc.mil
 tarr.uspto.gov
 tsdr.uspto.gov
 ustream.tv
+usunitednews.com
 usus.cc
 utopianpal.com
 uu-gg.com
@@ -4495,6 +4514,7 @@ xhamster.com
 xianchawang.net
 xianjian.tw
 xianqiao.net
+xiaobaiwu.com
 xiaochuncnjp.com
 xiaod.in
 xiaohexie.com
