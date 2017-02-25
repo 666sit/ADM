@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-21 06:00:02
+!--- 2017-02-26 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -351,6 +351,9 @@ scieron.com
 slyip.com
 slyip.net
 suroot.com
+dyndns.org
+dyndns-pics.com
+is-a-hunter.com
 facebook.br
 facebook.com
 facebook.design
@@ -819,6 +822,7 @@ bbchat.tv
 bb-chat.tv
 bbc.co.uk
 bbc.com
+bbc.comzhongwen
 newsforums.bbc.co.uk
 bbcchinese.com
 bbc.in
@@ -1433,7 +1437,6 @@ dwnews.com
 dwnews.net
 xys.dxiong.com
 dynawebinc.com
-dyndns.org
 dzze.com
 e-classical.com.tw
 e-gold.com
@@ -3460,6 +3463,7 @@ sftuk.org
 shadeyouvpn.com
 shadow.ma
 shadowsky.xyz
+shadowsocks.asia
 www.shadowsocks.com
 shadowsocks.com
 shadowsocks.org
@@ -3626,12 +3630,12 @@ speakerdeck.com
 spem.at
 spencertipping.com
 spicevpn.com
+spideroak.com
 spike.com
 spotflux.com
 spring4u.info
 sproutcore.com
 sproxy.info
-squarespace.com
 srocket.us
 ss-link.com
 ssh91.com
@@ -3647,7 +3651,6 @@ statueofdemocracy.org
 starfishfx.com
 starp2p.com
 startpage.com
-state168.com
 static-economist.com
 stc.com.sa
 steamcommunity.com
@@ -4562,6 +4565,7 @@ xysblogs.org
 xyy69.com
 xyy69.info
 page.bid.yahoo.com
+tw.bid.yahoo.com
 blogs.yahoo.co.jp
 buy.yahoo.com.tw
 hk.yahoo.com
