@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-02-26 06:00:02
+!--- 2017-03-01 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -25,7 +25,6 @@ arena.taipei
 asianspiss.com
 athenaeizou.com
 azubu.tv
-barracuda.com
 beeg.com
 bloombergview.com
 boysmaster.com
@@ -629,6 +628,7 @@ acevpn.com
 acg18.me
 acgkj.com
 acnw.com.au
+actfortibet.org
 actimes.com.au
 activpn.com
 aculo.us
@@ -860,6 +860,7 @@ bestvpnservice.com
 bestvpnusa.com
 bet365.com
 betfair.com
+betternet.co
 bettervpn.com
 bettween.com
 betvictor.com
@@ -1162,6 +1163,7 @@ chuizi.net
 christiantimes.org.hk
 chrlawyers.hk
 churchinhongkong.org
+chushigangdrug.ch
 cienen.com
 cineastentreff.de
 cipfg.org
@@ -1388,6 +1390,7 @@ dontmovetochina.com
 dorjeshugden.com
 dotplane.com
 dotsub.com
+doub.io
 dougscripts.com
 douhokanko.net
 doujincafe.com
@@ -1396,8 +1399,6 @@ dphk.org
 dpp.org.tw
 dpr.info
 dragonsprings.org
-draw.io
-dreammask.org
 drepung.org
 drgan.net
 drmingxia.org
@@ -1411,7 +1412,6 @@ dscn.info
 dstk.dk
 dtiblog.com
 dtic.mil
-dtiserv2.com
 dtwang.org
 duanzhihu.com
 duckdns.org
@@ -1575,6 +1575,7 @@ falsefire.com
 falun-co.org
 falunart.org
 falunasia.info
+falunau.org
 falundafa.org
 falundafa-dc.org
 falundafa-florida.org
@@ -1661,6 +1662,7 @@ flagsonline.it
 fleshbot.com
 fleursdeslettres.com
 flgg.us
+flgjustice.org
 flickr.com
 staticflickr.com
 flickrhivemind.net
@@ -3494,6 +3496,7 @@ shixiao.org
 shizhao.org
 shkspr.mobi
 shodanhq.com
+shooshtime.com
 shop2000.com.tw
 shopping.com
 showhaotu.com
@@ -3533,15 +3536,15 @@ sinonet.ca
 sinopitt.info
 sinoants.com
 sinoquebec.com
+sierrafriendsoftibet.org
+sis.xxx
+sis001.com
+sis001.us
 site90.net
 sitebro.tw
 sitekreator.com
 siteks.uk.to
 sitemaps.org
-sitetag.us
-sis.xxx
-sis001.com
-sis001.us
 sjrt.org
 sjum.cn
 sketchappsources.com
@@ -3602,6 +3605,7 @@ soh.tw
 sohfrance.org
 chinese.soifind.com
 sokamonline.com
+solidaritetibet.org
 somee.com
 songjianjun.com
 sonicbbs.cc
@@ -3882,6 +3886,7 @@ tibetanpaintings.com
 tibetanphotoproject.com
 tibetanpoliticalreview.org
 tibetanreview.net
+tibetansports.org
 tibetanwomen.org
 tibetanyouth.org
 tibetanyouthcongress.org
@@ -4339,6 +4344,7 @@ waffle1999.com
 wahas.com
 waigaobu.com
 waikeung.org
+wailaike.net
 waiwaier.com
 wallornot.org
 wallpapercasa.com
@@ -4470,7 +4476,10 @@ worldcat.org
 worldjournal.com
 worldvpn.net
 wordpress.com
+cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
+jobnewera.wordpress.com
+sujiatun.wordpress.com
 wp.com
 wow.com
 wow-life.net
