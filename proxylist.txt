@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-03-06 06:00:02
+!--- 2017-03-11 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -498,6 +498,7 @@ recaptcha.net
 redhotlabs.com
 registry.google
 schema.org
+shattered.io
 sipml5.org
 stories.google
 synergyse.com
@@ -1895,6 +1896,7 @@ gohappy.com.tw
 gokbayrak.com
 goldbet.com
 goldbetsports.com
+goldeneyevault.com
 goldenfrog.com
 goldstep.net
 goldwave.com
@@ -2029,6 +2031,7 @@ getsmartlinks.com
 git-scm.com
 heqinglian.net
 heungkongdiscuss.com
+hexieshe.com
 hexxeh.net
 app.heywire.com
 heyzo.com
@@ -3136,7 +3139,9 @@ picidae.net
 picturesocial.com
 pin6.com
 ping.fm
+pinimg.com
 pinoy-n.com
+pinterest.com
 piposay.com
 piraattilahti.org
 piring.com
@@ -3339,6 +3344,7 @@ renyurenquan.org
 certificate.revocationcheck.com
 subacme.rerouted.org
 reuters.com
+reutersmedia.net
 revleft.com
 retweetist.com
 retweetrank.com
