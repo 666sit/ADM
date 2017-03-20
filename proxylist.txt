@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-03-16 06:00:01
+!--- 2017-03-21 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -25,6 +25,7 @@ arena.taipei
 asianspiss.com
 athenaeizou.com
 azubu.tv
+bash-hackers.org
 beeg.com
 bloombergview.com
 boysmaster.com
@@ -99,6 +100,7 @@ mfxmedia.com
 kb.monitorware.com
 monster.com
 moodyz.com
+msha.gov
 muzu.tv
 mvg.jp
 nationwide.com
@@ -350,7 +352,9 @@ scieron.com
 slyip.com
 slyip.net
 suroot.com
+blogdns.org
 dyndns.org
+dyndns-ip.com
 dyndns-pics.com
 is-a-hunter.com
 facebook.br
@@ -385,6 +389,7 @@ chromercise.com
 chromestatus.com
 chromium.org
 com.google
+creativelab5.com
 data-vocabulary.org
 deepmind.com
 deja.com
@@ -456,15 +461,16 @@ googleapps.com
 googleartproject.com
 googleblog.com
 googlebot.com
+googlecapital.com
 googlecode.com
 googlecommerce.com
 googledomains.com
 googleearth.com
 googledrive.com
 googlegroups.com
-googlecapital.com
 googlehosted.com
 googleideas.com
+googleinsidesearch.com
 googlelabs.com
 googlemail.com
 googleplay.com
@@ -497,11 +503,13 @@ questvisual.com
 recaptcha.net
 redhotlabs.com
 registry.google
+savethedate.foo
 schema.org
 shattered.io
 sipml5.org
 stories.google
 synergyse.com
+teachparentstech.org
 tensorflow.org
 thinkwithgoogle.com
 tiltbrush.com
@@ -672,6 +680,7 @@ aliengu.com
 alkasir.com
 allconnected.co
 alldrawnsex.com
+allervpn.com
 allfinegirls.com
 allgirlmassage.com
 allgirlsallowed.org
@@ -1037,6 +1046,7 @@ cbc.ca
 cbsnews.com
 cbtc.org.hk
 cccat.cc
+cccat.co
 ccdtr.org
 cchere.com
 ccim.org
@@ -1719,6 +1729,7 @@ freefuckvids.com
 freegao.com
 free-hada-now.org
 freeilhamtohti.org
+freekwonpyong.org
 freelotto.com
 freeman2.com
 freeopenvpn.com
@@ -2005,6 +2016,7 @@ harunyahya.com
 hasaowall.com
 bbs.hasi.wang
 have8.com
+hclips.com
 hdtvb.net
 hdzog.com
 heartyit.com
@@ -2017,6 +2029,7 @@ cdn.helixstudios.net
 helplinfen.com
 helloandroid.com
 helloqueer.com
+helloss.pw
 hellotxt.com
 hentai.to
 hellouk.org
@@ -2061,6 +2074,7 @@ himemix.com
 himemix.net
 times.hinet.net
 hitomi.la
+hiwifi.com
 hizbuttahrir.org
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -2351,6 +2365,7 @@ jamaat.org
 jamyangnorbu.com
 janwongphoto.com
 japan-whores.com
+jav2be.com
 jav68.tv
 javhd.com
 javhip.com
@@ -2465,6 +2480,8 @@ kissbbao.cn
 kiwi.kz
 kk-whys.co.jp
 knowledgerush.com
+kobo.com
+kobobooks.com
 kodingen.com
 kompozer.net
 konachan.com
@@ -2540,6 +2557,7 @@ limiao.net
 linkuswell.com
 abitno.linpie.com
 line.me
+line-apps.com
 linglingfa.com
 lingvodics.com
 link-o-rama.com
@@ -2659,6 +2677,7 @@ medium.com
 meetav.com
 meetup.com
 mefeedia.com
+mega.nz
 megaproxy.com
 megarotic.com
 megavideo.com
@@ -2898,6 +2917,7 @@ nextmag.com.tw
 nextmedia.com
 nexton-net.jp
 nexttv.com.tw
+nfjtyd.com
 co.ng.mil
 nga.mil
 ngensis.com
@@ -3326,6 +3346,7 @@ readmoo.com
 readydown.com
 realcourage.org
 realraptalk.com
+realsexpass.com
 recordhistory.org
 recovery.org.tw
 online.recoveryversion.org
@@ -4602,6 +4623,7 @@ pulse.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 yahoo.com.hk
+duckduckgo-owned-server.yahoo.net
 yakbutterblues.com
 yam.com
 yam.org.tw
