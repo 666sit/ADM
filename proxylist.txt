@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-03-21 06:00:01
+!--- 2017-03-26 06:00:03
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -37,6 +37,7 @@ static.comico.tw
 crossfire.co.kr
 d2pass.com
 darpa.mil
+deezer.com
 desipro.de
 dish.com
 img.dlsite.jp
@@ -55,6 +56,7 @@ flipboard.com
 flitto.com
 funkyimg.com
 fxnetworks.com
+g-area.org
 gettyimages.com
 getuploader.com
 github.com
@@ -82,6 +84,7 @@ jcpenney.com
 jims.net
 juliepost.com
 kawaiikawaii.jp
+kendatire.com
 khatrimaza.org
 kkbox.com
 leisurepro.com
@@ -100,6 +103,7 @@ mfxmedia.com
 kb.monitorware.com
 monster.com
 moodyz.com
+mos.ru
 msha.gov
 muzu.tv
 mvg.jp
@@ -356,6 +360,8 @@ blogdns.org
 dyndns.org
 dyndns-ip.com
 dyndns-pics.com
+from-sd.com
+from-pr.com
 is-a-hunter.com
 facebook.br
 facebook.com
@@ -519,6 +525,7 @@ webmproject.org
 webrtc.org
 whatbrowser.org
 withgoogle.com
+xn--ngstr-lra8j.com
 youtu.be
 youtube.com
 youtube-nocookie.com
@@ -792,6 +799,7 @@ atgfw.org
 atlaspost.com
 atdmt.com
 atnext.com
+ice.audionow.com
 avaaz.org
 avcity.tv
 avcool.com
@@ -995,7 +1003,6 @@ buzzhand.net
 buzzorange.com
 bwsj.hk
 bx.tl
-holz.byethost8.com
 c-spanvideo.org
 c-est-simple.com
 c100tibet.org
@@ -1251,6 +1258,7 @@ coolloud.org.tw
 coolncute.com
 corumcollege.com
 cos-moe.com
+cosplayjav.pl
 couchdbwiki.com
 cotweet.com
 cpj.org
@@ -1379,6 +1387,7 @@ djangosnippets.org
 djorz.com
 dl-laby.jp
 dlsite.com
+dlyoutube.com
 dmcdn.net
 dnscrypt.org
 dns2go.com
@@ -1665,6 +1674,7 @@ filmingfortibet.org
 filthdump.com
 finchvpn.com
 findmespot.com
+findyoutube.com
 fingerdaily.com
 finler.net
 fireofliberty.org
@@ -2363,15 +2373,17 @@ j.mp
 blog.jackjia.com
 jamaat.org
 jamyangnorbu.com
+jandyx.com
 janwongphoto.com
 japan-whores.com
 jav2be.com
 jav68.tv
-javhd.com
-javhip.com
 javakiba.org
 javbus.com
 javfor.me
+javhd.com
+javhip.com
+javmobile.net
 javmoo.com
 javseen.com
 jbtalks.cc
@@ -2809,6 +2821,7 @@ muzi.net
 mx981.com
 my-formosa.com
 my-proxy.com
+my-private-network.co.uk
 forum.my903.com
 myactimes.com
 myaudiocast.com
@@ -2831,13 +2844,13 @@ myforum.com.uk
 myfreecams.com
 myfreepaysite.com
 myfreshnet.com
+myiphide.com
 forum.mymaji.com
 mymediarom.com
 mymoe.moe
 mymusic.net.tw
 myparagliding.com
 mypopescu.com
-my-private-network.co.uk
 myradio.hk
 mysinablog.com
 myspace.com
@@ -3272,6 +3285,7 @@ prozz.net
 psblog.name
 psiphon.ca
 psiphon3.com
+psiphontoday.com
 ptt.cc
 puffstore.com
 puuko.com
@@ -3619,6 +3633,7 @@ softether-download.com
 cdn.softlayer.net
 sogclub.com
 sohcradio.com
+sokmil.com
 sorting-algorithms.com
 sostibet.org
 soumo.info
@@ -4037,6 +4052,7 @@ tube911.com
 tubecup.com
 tubegals.com
 tubeislam.com
+tubestack.com
 tubewolf.com
 tuidang.net
 tuidang.org
@@ -4393,6 +4409,7 @@ watchinese.com
 wattpad.com
 makzhou.warehouse333.com
 washeng.net
+watch8x.com
 watchmygf.net
 wav.tv
 wdf5.com
@@ -4607,6 +4624,7 @@ buy.yahoo.com.tw
 hk.yahoo.com
 hk.knowledge.yahoo.com
 hk.myblog.yahoo.com
+news.yahoo.com
 hk.news.yahoo.com
 hk.rd.yahoo.com
 hk.search.yahoo.com
