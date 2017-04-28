@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-03-26 06:00:03
+!--- 2017-04-29 03:14:53
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -41,6 +41,7 @@ deezer.com
 desipro.de
 dish.com
 img.dlsite.jp
+dm530.net
 share.dmhy.org
 dmm.co.jp
 www.dmm.com
@@ -82,6 +83,7 @@ javhuge.com
 javlibrary.com
 jcpenney.com
 jims.net
+jukujo-club.com
 juliepost.com
 kawaiikawaii.jp
 kendatire.com
@@ -95,6 +97,7 @@ macgamestore.com
 madonna-av.com
 mangafox.com
 mangafox.me
+manta.com
 matome-plus.com
 matome-plus.net
 mattwilcox.net
@@ -133,6 +136,7 @@ radiko.jp
 ramcity.com.au
 rd.com
 rdio.com
+riseup.net
 sadistic-v.com
 shutterstock.com
 slacker.com
@@ -157,6 +161,7 @@ vip-enterprise.com
 viu.tv
 ecsm.vs.com
 wanz-factory.com
+ssl.webpack.de
 wheretowatch.com
 wingamestore.com
 wizcrafts.net
@@ -339,6 +344,7 @@ zyns.com
 zzux.com
 d1b183sg0nvnuh.cloudfront.net
 d1c37gjwa26taa.cloudfront.net
+d3c33hcgiwev3.cloudfront.net
 d3rhr7kgmtrq1v.cloudfront.net
 3d-game.com
 4irc.com
@@ -418,6 +424,8 @@ google.am
 google.at
 google.az
 google.ba
+google.be
+google.bg
 google.cat
 google.cd
 google.ci
@@ -538,7 +546,6 @@ naughtyamerica.com
 v2ex.com
 030buy.com
 0rz.tw
-0to255.com
 1-apple.com.tw
 100ke.org
 1000giri.net
@@ -612,6 +619,7 @@ taiwannation.50webs.com
 7cow.com
 8-d.com
 85cc.net
+85cc.us
 85st.com
 881903.com
 888.com
@@ -728,6 +736,7 @@ animecrazy.net
 animeshippuuden.com
 aniscartujo.com
 anobii.com
+anonymise.us
 anonymitynetwork.com
 anonymizer.com
 anontext.com
@@ -801,6 +810,7 @@ atdmt.com
 atnext.com
 ice.audionow.com
 avaaz.org
+avbody.tv
 avcity.tv
 avcool.com
 avdb.in
@@ -887,6 +897,7 @@ beyondfirewall.com
 bfnn.org
 bfsh.hk
 bgvpn.com
+bianlei.com
 biantailajiao.com
 biantailajiao.in
 biblesforamerica.org
@@ -936,6 +947,7 @@ bloomberg.de
 bloomfortune.com
 blueangellive.com
 bmfinn.com
+bnews.co
 bnrmetal.com
 boardreader.com
 bod.asia
@@ -1601,6 +1613,7 @@ falundafa-dc.org
 falundafa-florida.org
 falundafa-nc.org
 falundafa-pa.net
+falundafa-sacramento.org
 falun-ny.net
 falundafaindia.org
 falundafamuseum.org
@@ -1634,6 +1647,7 @@ fanswong.com
 fanyue.info
 farwestchina.com
 en.favotter.net
+nytimes.map.fastly.net
 fast.wistia.com
 fastssh.com
 faststone.org
@@ -1646,6 +1660,8 @@ fc2cn.com
 fc2blog.net
 uygur.fc2web.com
 video.fdbox.com
+fdc64.de
+fdc64.org
 fdc89.jp
 fourface.nodesnoop.com
 feelssh.com
@@ -1847,6 +1863,7 @@ geek-art.net
 geekerhome.com
 geekheart.info
 geekmanuals.com
+gekikame.com
 gelbooru.com
 geocities.co.jp
 geocities.com
@@ -2146,6 +2163,7 @@ hongkongfp.com
 hongmeimei.com
 hongzhi.li
 hootsuite.com
+hopedialogue.org
 hopto.org
 hornygamer.com
 hotav.tv
@@ -2454,6 +2472,7 @@ kagyuoffice.org
 kagyuoffice.org.tw
 kaiyuan.de
 kakao.com
+kalachakralugano.org
 kankan.today
 kannewyork.com
 kanshifang.com
@@ -2497,6 +2516,7 @@ kobobooks.com
 kodingen.com
 kompozer.net
 konachan.com
+kone.com
 koolsolutions.com
 koornk.com
 koranmandarin.com
@@ -2987,6 +3007,7 @@ nubiles.net
 nuexpo.com
 nukistream.com
 nurgo-software.com
+nutaku.net
 nuvid.com
 nuzcom.com
 nvquan.org
@@ -2996,6 +3017,10 @@ nyaa.se
 nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
+a1.nyt.com
+int.nyt.com
+static01.nyt.com
+typeface.nyt.com
 nytchina.com
 nytcn.me
 nytco.com
@@ -3173,6 +3198,7 @@ picturesocial.com
 pin6.com
 ping.fm
 pinimg.com
+pinkrod.com
 pinoy-n.com
 pinterest.com
 piposay.com
@@ -3684,9 +3710,11 @@ sproutcore.com
 sproxy.info
 srocket.us
 ss-link.com
+ssglobal.me
 ssh91.com
 sspro.ml
 sss.camp
+sstmlt.moe
 sstmlt.net
 stackoverflow.com
 stage64.hk
@@ -3746,6 +3774,7 @@ sunta.com.tw
 sunvpn.net
 suoluo.org
 supervpn.net
+suppig.net
 suprememastertv.com
 surfeasy.com
 surfeasy.com.au
@@ -4465,6 +4494,7 @@ whotalking.com
 whylover.com
 whyx.org
 evchk.wikia.com
+fq.wikia.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 wikileaks.ch
@@ -4511,6 +4541,7 @@ woeser.com
 woesermiddle-way.net
 wokar.org
 wolfax.com
+woolyss.com
 woopie.jp
 woopie.tv
 workatruna.com
