@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-05-16 06:00:01
+!--- 2017-05-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -1523,6 +1523,7 @@ empfil.com
 emule-ed2k.com
 emulefans.com
 emuparadise.me
+enanyang.my
 enewstree.com
 enfal.de
 chinese.engadget.com
@@ -1877,6 +1878,7 @@ getcloak.com
 getfoxyproxy.org
 getfreedur.com
 getgom.com
+geti2p.net
 getlantern.org
 getjetso.com
 getiton.com
@@ -2149,6 +2151,7 @@ hkusu.net
 hkvwet.com
 hkwcc.org.hk
 hkzone.org
+hmonghot.com
 hnjhj.com
 hnntube.com
 hola.com
@@ -3011,6 +3014,7 @@ nutaku.net
 nuvid.com
 nuzcom.com
 nvquan.org
+nvtongzhisheng.org
 nwtca.org
 nyaa.eu
 nyaa.se
