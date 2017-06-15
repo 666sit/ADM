@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-06-11 06:00:02
+!--- 2017-06-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -391,6 +391,7 @@ ampproject.org
 android.com
 androidify.com
 appspot.com
+blog.google
 blogspot.hk
 blogspot.jp
 certificate-transparency.org
@@ -407,6 +408,7 @@ deepmind.com
 deja.com
 digisfera.com
 domains.google
+environment.google
 feedburner.com
 g.co
 gcr.io
@@ -771,6 +773,7 @@ apkpure.com
 aplusvpn.com
 appdownloader.net
 appledaily.com
+appshopper.com
 appsocks.net
 appsto.re
 archives.gov
@@ -4125,6 +4128,7 @@ tvider.com
 tvmost.com.hk
 tvplayvideos.com
 tvunetworks.com
+tw-blog.com
 tw-npo.org
 twaitter.com
 twapperkeeper.com
