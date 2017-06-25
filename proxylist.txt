@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-06-21 06:00:01
+!--- 2017-06-26 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -382,6 +382,7 @@ fb.me
 m.me
 messenger.com
 oculus.com
+rocksdb.org
 1e100.net
 abc.xyz
 admob.com
@@ -406,6 +407,7 @@ creativelab5.com
 data-vocabulary.org
 deepmind.com
 deja.com
+design.google
 digisfera.com
 domains.google
 environment.google
@@ -1962,6 +1964,7 @@ gotw.ca
 grammaly.com
 grandtrial.org
 graphis.ne.jp
+graphql.org
 greatfirewall.biz
 greatfirewallofchina.net
 greatfirewallofchina.org
@@ -2269,7 +2272,6 @@ ied2k.net
 ienergy1.com
 if.ttt
 ifanqiang.com
-ifanr.com
 ifcss.org
 ifjc.org
 ift.tt
@@ -4098,6 +4100,7 @@ tumutanzi.com
 tumview.com
 tunein.com
 tunnelbear.com
+tuo8.blue
 tuo8.cc
 tuo8.club
 tuo8.fit
