@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-07-16 06:00:02
+!--- 2017-07-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -25,6 +25,7 @@ arena.taipei
 asianspiss.com
 athenaeizou.com
 azubu.tv
+banorte.com
 bash-hackers.org
 beeg.com
 bloombergview.com
@@ -114,6 +115,11 @@ nationwide.com
 www.nbc.com
 neo-miracle.com
 netflix.com
+nflximg.com
+nflximg.net
+nflxext.com
+nflxso.net
+nflxvideo.net
 mo.nightlife141.com
 nordstrom.com
 nordstromimage.com
@@ -129,6 +135,7 @@ ontrac.com
 pandora.com
 pandora.tv
 parkansky.com
+phmsociety.org
 pure18.com
 qq.co.za
 r18.com
@@ -155,6 +162,7 @@ tracfone.com
 tryheart.jp
 turntable.fm
 twerkingbutt.com
+ulop.net
 vegasred.com
 vevo.com
 vip-enterprise.com
@@ -723,6 +731,7 @@ amiblockedornot.com
 amigobbs.net
 amitabhafoundation.us
 amnesty.org
+amnesty.org.hk
 amnesty.tw
 amnestyusa.org
 amnyemachen.org
@@ -992,12 +1001,14 @@ breakwall.net
 briian.com
 briefdream.com
 brizzly.com
+brkmd.com
 broadbook.com
 broadpressinc.com
 bbs.brockbbs.com
 brucewang.net
 brutaltgp.com
 bt95.com
+btbtav.com
 btdigg.org
 btku.me
 btku.org
@@ -1112,6 +1123,7 @@ cgst.edu
 change.org
 changp.com
 changsa.net
+channel8news.sg
 chapm25.com
 chaturbate.com
 chuang-yen.org
@@ -1709,6 +1721,7 @@ flgjustice.org
 flickr.com
 staticflickr.com
 flickrhivemind.net
+flickriver.com
 fling.com
 flipkart.com
 cn.fmnnow.com
@@ -1717,7 +1730,6 @@ blog.foolsmountain.com
 forum4hk.com
 fangong.forums-free.com
 pioneer-worker.forums-free.com
-fotop.net
 video.foxbusiness.com
 foxgay.com
 fringenetwork.com
@@ -1762,6 +1774,7 @@ freegao.com
 free-hada-now.org
 freeilhamtohti.org
 freekwonpyong.org
+saveliuxiaobo.com
 freelotto.com
 freeman2.com
 freeopenvpn.com
@@ -1851,6 +1864,7 @@ gardennetworks.com
 gardennetworks.org
 72.52.81.22
 gartlive.com
+gate-project.com
 gather.com
 gati.org.tw
 gaybubble.com
@@ -2333,7 +2347,6 @@ internetfreedom.org
 internetpopculture.com
 inxian.com
 ipalter.com
-ipcf.org.tw
 iphone4hongkong.com
 iphonehacks.com
 iphonetaiwan.org
@@ -2497,6 +2510,7 @@ kcsoftwares.com
 kebrum.com
 kechara.com
 keepandshare.com
+keezmovies.com
 kendincos.net
 kenengba.com
 keontech.net
@@ -2616,6 +2630,7 @@ listorious.com
 liudejun.com
 liuhanyu.com
 liujianshu.com
+liuxiaobo.net
 liuxiaotong.com
 livedoor.jp
 liveleak.com
@@ -2829,6 +2844,7 @@ mpettis.com
 mpfinance.com
 mpinews.com
 mponline.hk
+mqxd.org
 mrtweet.com
 news.hk.msn.com
 news.msn.com.tw
@@ -2984,6 +3000,7 @@ opendn.xyz
 sytes.net
 whodns.xyz
 zapto.org
+dynupdate.no-ip.com
 nobel.se
 nobelprize.org
 nobodycanstop.us
@@ -3038,6 +3055,7 @@ nytimes.com
 nytimg.com
 userapi.nytlog.com
 cn.nytstyle.com
+nytstyle.com
 nzchinese.com
 nzchinese.net.nz
 observechina.net
@@ -3275,6 +3293,7 @@ provpnaccounts.com
 proxfree.com
 proxyanonimo.es
 proxynetwork.org.uk
+pscp.tv
 pts.org.tw
 pttvan.org
 pubu.com.tw
@@ -3440,7 +3459,6 @@ robustnessiskey.com
 roc-taiwan.org
 rocket-inc.net
 www2.rocketbbs.com
-rocmp.org
 rojo.com
 ronjoneswriter.com
 rolia.net
@@ -4121,6 +4139,7 @@ tuvpn.com
 tuzaijidi.com
 tw01.org
 tumblr.com
+blog.soylent.com
 tv.com
 tvants.com
 forum.tvb.com
@@ -4564,6 +4583,7 @@ worldvpn.net
 wordpress.com
 cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
+hkanews.wordpress.com
 jobnewera.wordpress.com
 sujiatun.wordpress.com
 wp.com
