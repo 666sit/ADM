@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-07-21 06:00:02
+!--- 2017-07-26 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -1820,6 +1820,7 @@ fscked.org
 fsurf.com
 ftchinese.com
 www.ftchinese.com
+ftv.com.tw
 fucd.com
 fuckcnnic.net
 fuckgfw.org
@@ -2415,6 +2416,7 @@ jamyangnorbu.com
 jandyx.com
 janwongphoto.com
 japan-whores.com
+jav101.com
 jav2be.com
 jav68.tv
 javakiba.org
@@ -4254,6 +4256,7 @@ legaltech.law.com
 blogs.tampabay.com
 contests.twilio.com
 embr.in
+u9un.com
 ubddns.org
 uberproxy.net
 uc-japan.org
