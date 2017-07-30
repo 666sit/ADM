@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-07-26 06:00:02
+!--- 2017-07-31 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -896,6 +896,7 @@ beric.me
 berlintwitterwall.com
 berm.co.nz
 bestforchina.org
+bestgore.com
 bestvpn.com
 bestvpnserver.com
 bestvpnservice.com
@@ -3036,6 +3037,7 @@ nukistream.com
 nurgo-software.com
 nutaku.net
 nuvid.com
+nvdst.com
 nuzcom.com
 nvquan.org
 nvtongzhisheng.org
