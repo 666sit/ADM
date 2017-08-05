@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-08-01 06:00:02
+!--- 2017-08-06 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -23,6 +23,7 @@ alien-ufos.com
 altrec.com
 arena.taipei
 asianspiss.com
+assimp.org
 athenaeizou.com
 azubu.tv
 banorte.com
@@ -38,6 +39,7 @@ static.comico.tw
 crossfire.co.kr
 d2pass.com
 darpa.mil
+dawangidc.com
 deezer.com
 desipro.de
 dish.com
@@ -173,10 +175,13 @@ ssl.webpack.de
 wheretowatch.com
 wingamestore.com
 wizcrafts.net
+vod.wwe.com
 xfinity.com
 ytn.co.kr
 zattoo.com
 zozotown.com
+14.102.250.18
+14.102.250.19
 50.7.31.230
 174.142.105.153
 69.65.19.160
@@ -413,6 +418,7 @@ chromium.org
 com.google
 creativelab5.com
 data-vocabulary.org
+debug.com
 deepmind.com
 deja.com
 design.google
@@ -573,7 +579,10 @@ v2ex.com
 173ng.com
 177pic.info
 17t17p.com
+18board.com
+18board.info
 18onlygirls.com
+18p2p.com
 18virginsex.com
 1949er.org
 zhao.1984.city
@@ -1303,6 +1312,7 @@ crocotube.com
 crossthewall.net
 csdparty.com
 csuchen.de
+csw.org.uk
 ctao.org
 ctfriend.net
 ctitv.com.tw
@@ -1545,6 +1555,7 @@ enanyang.my
 enewstree.com
 enfal.de
 chinese.engadget.com
+engagedaily.org
 englishforeveryone.org
 englishfromengland.co.uk
 englishpen.org
@@ -1757,11 +1768,10 @@ franklc.com
 freakshare.com
 free4u.com.ar
 free-gate.org
+free-hada-now.org
+free-proxy.cz
 free.fr
-allonlinux.free.fr
-dimitrik.free.fr
 kineox.free.fr
-puttycm.free.fr
 freealim.com
 whitebear.freebearblog.org
 freebrowser.org
@@ -1772,7 +1782,6 @@ freedomsherald.org
 freefq.com
 freefuckvids.com
 freegao.com
-free-hada-now.org
 freeilhamtohti.org
 freekwonpyong.org
 saveliuxiaobo.com
@@ -2301,6 +2310,7 @@ igvita.com
 ihakka.net
 ihao.org
 iicns.com
+ikstar.com
 illusionfactory.com
 ilove80.be
 im.tv
@@ -2361,6 +2371,7 @@ iportal.me
 ippotv.com
 ipredator.se
 iptv.com.tw
+iptvbin.com
 ipvanish.com
 iredmail.org
 chinese.irib.ir
@@ -4159,6 +4170,7 @@ tw-npo.org
 twaitter.com
 twapperkeeper.com
 twaud.io
+twavi.com
 twbbs.net.tw
 twbbs.org
 twbbs.tw
@@ -4168,6 +4180,7 @@ tweepml.org
 tweetbackup.com
 tweetboard.com
 tweetboner.biz
+tweetcs.com
 tweetdeck.com
 deck.ly
 mtw.tl
