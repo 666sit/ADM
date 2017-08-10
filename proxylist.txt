@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-08-06 06:00:01
+!--- 2017-08-11 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -29,6 +29,7 @@ azubu.tv
 banorte.com
 bash-hackers.org
 beeg.com
+global.bing.com
 bloombergview.com
 boysmaster.com
 carfax.com
@@ -42,6 +43,7 @@ darpa.mil
 dawangidc.com
 deezer.com
 desipro.de
+dingchin.com.tw
 dish.com
 img.dlsite.jp
 dm530.net
@@ -1039,6 +1041,7 @@ buugaa.com
 buzzhand.com
 buzzhand.net
 buzzorange.com
+bvpn.com
 bwsj.hk
 bx.tl
 c-spanvideo.org
@@ -1450,6 +1453,7 @@ dontmovetochina.com
 dorjeshugden.com
 dotplane.com
 dotsub.com
+dotvpn.com
 doub.io
 dougscripts.com
 douhokanko.net
@@ -1723,6 +1727,7 @@ findmespot.com
 findyoutube.com
 fingerdaily.com
 finler.net
+firearmsworld.net
 fireofliberty.org
 firetweet.io
 flagsonline.it
@@ -1903,6 +1908,7 @@ geocities.jp
 geohot.com
 geometrictools.com
 gerefoundation.org
+getastrill.com
 getchu.com
 getcloak.com
 getfoxyproxy.org
@@ -2638,6 +2644,7 @@ linux.org.hk
 linuxtoy.org
 lionsroar.com
 lipuman.com
+liquidvpn.com
 greatfire.us7.list-manage.com
 listentoyoutube.com
 listorious.com
@@ -2933,6 +2940,7 @@ nakido.com
 naol.ca
 naol.cc
 uighur.narod.ru
+nat.moe
 cyberghost.natado.com
 national-lottery.co.uk
 news.nationalgeographic.com
@@ -2959,6 +2967,7 @@ netme.cc
 netsneak.com
 network54.com
 networkedblogs.com
+networktunnel.net
 neverforget8964.org
 new-3lunch.net
 new-akiba.com
@@ -3090,6 +3099,7 @@ www2.ohchr.org
 oikos.com.tw
 oiktv.com
 oizoblog.com
+ok.ru
 okayfreedom.com
 okk.tw
 filmy.olabloga.pl
@@ -3173,6 +3183,7 @@ paljorpublications.com
 paltalk.com
 pangci.net
 panacom.co.jp
+pandapow.co
 pandapow.net
 pandavpn-jp.com
 panluan.net
@@ -3434,6 +3445,7 @@ recordhistory.org
 recovery.org.tw
 online.recoveryversion.org
 recoveryversion.com.tw
+red-lang.org
 redchinacn.net
 redchinacn.org
 redtube.com
@@ -3970,6 +3982,7 @@ tibet.fr
 tibet.net
 tibet.nu
 tibet.org
+tibet.sk
 tibet.org.tw
 tibet.to
 tibet-envoy.eu
@@ -4041,6 +4054,7 @@ tibettelegraph.com
 tibettimes.net
 tibetwrites.org
 ticket.com.tw
+tigervpn.com
 timdir.com
 time.com
 timsah.com
@@ -4133,6 +4147,7 @@ tumutanzi.com
 tumview.com
 tunein.com
 tunnelbear.com
+tunnelr.com
 tuo8.blue
 tuo8.cc
 tuo8.club
@@ -4192,6 +4207,7 @@ tweetree.com
 tweettunnel.com
 tweetwally.com
 tweetymail.com
+twelve.today
 twftp.org
 twibase.com
 twibble.de
@@ -4295,6 +4311,7 @@ ultravpn.fr
 ultraxs.com
 umich.edu
 unblock.cn.com
+unblocker.yt
 unblock-us.com
 unblockdmm.com
 unblocksit.es
@@ -4420,6 +4437,7 @@ vot.org
 vovo2000.com
 voxer.com
 voy.com
+vpn.ac
 vpn4all.com
 vpnaccount.org
 vpnaccounts.com
@@ -4440,6 +4458,7 @@ vpnmaster.com
 vpninja.net
 vpnintouch.com
 vpnintouch.net
+vpnjack.com
 vpnpick.com
 vpnpop.com
 vpnpronet.com
@@ -4447,6 +4466,7 @@ vpnreactor.com
 vpnreviewz.com
 vpnsecure.me
 vpnshazam.com
+vpnshieldapp.com
 vpnsp.com
 vpntraffic.com
 vpntunnel.com
@@ -4571,6 +4591,7 @@ sports.williamhill.com
 vegas.williamhill.com
 willw.net
 windowsphoneme.com
+windscribe.com
 winning11.com
 winwhispers.info
 wiredbytes.com
@@ -4789,12 +4810,13 @@ yzzk.com
 zacebook.com
 zalmos.com
 zannel.com
-zaobao.com
 zaobao.com.sg
 zaozon.com
 zdnet.com.tw
 zello.com
 zengjinyan.org
+zenmate.com
+zenmate.com.ru
 zeutch.com
 zfreet.com
 zgsddh.com
@@ -4834,6 +4856,7 @@ zonghexinwen.net
 zootool.com
 zoozle.net
 writer.zoho.com
+zpn.im
 zshare.net
 zsrhao.com
 zuo.la
