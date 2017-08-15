@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-08-11 06:00:01
+!--- 2017-08-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -66,6 +66,7 @@ g-area.org
 gettyimages.com
 getuploader.com
 github.com
+raw.githubusercontent.com
 glass8.eu
 glype.com
 go141.com
@@ -1919,6 +1920,7 @@ getlantern.org
 getjetso.com
 getiton.com
 getsocialscope.com
+getsync.com
 gfbv.de
 gfgold.com.hk
 gfsale.com
@@ -2574,9 +2576,11 @@ kurtmunger.com
 kusocity.com
 kwcg.ca
 kwongwah.com.my
+kxsw.life
 kyofun.com
 kyohk.net
 kyoyue.com
+kyzyhello.com
 kzeng.info
 la-forum.org
 ladbrokes.com
@@ -3253,7 +3257,16 @@ ping.fm
 pinimg.com
 pinkrod.com
 pinoy-n.com
+pinterest.at
+pinterest.co.kr
+pinterest.co.uk
 pinterest.com
+pinterest.de
+pinterest.dk
+pinterest.fr
+pinterest.jp
+pinterest.nl
+pinterest.se
 piposay.com
 piraattilahti.org
 piring.com
@@ -3399,6 +3412,7 @@ qstatus.com
 qtweeter.com
 qtrac.eu
 quannengshen.org
+quantumbooter.net
 quitccp.net
 quitccp.org
 quran.com
@@ -3459,6 +3473,7 @@ renminbao.com
 renyurenquan.org
 certificate.revocationcheck.com
 subacme.rerouted.org
+resilio.com
 reuters.com
 reutersmedia.net
 revleft.com
@@ -4478,7 +4493,6 @@ vpser.net
 vraiesagesse.net
 vtunnel.com
 vuku.cc
-w.org
 lists.w3.org
 waffle1999.com
 wahas.com
