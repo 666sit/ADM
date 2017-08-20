@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-08-16 06:00:02
+!--- 2017-08-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -156,6 +156,7 @@ sm-miracle.com
 spotify.com
 springboardplatform.com
 sprite.org
+superokayama.com
 superpages.com
 swagbucks.com
 switch1.jp
@@ -3073,6 +3074,7 @@ nylon-angel.com
 nylonstockingsonline.com
 a1.nyt.com
 int.nyt.com
+s1.nyt.com
 static01.nyt.com
 typeface.nyt.com
 nytchina.com
@@ -3743,6 +3745,7 @@ sohfrance.org
 chinese.soifind.com
 sokamonline.com
 solidaritetibet.org
+solidfiles.com
 somee.com
 songjianjun.com
 sonicbbs.cc
@@ -4785,6 +4788,7 @@ xa.yimg.com
 yingsuoss.com
 yipub.com
 yinlei.org
+yizhihongxing.com
 yobt.com
 yogichen.org
 yong.hu
