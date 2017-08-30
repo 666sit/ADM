@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-08-26 06:00:01
+!--- 2017-08-31 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -183,6 +183,7 @@ vod.wwe.com
 xfinity.com
 ytn.co.kr
 zattoo.com
+zim.vn
 zozotown.com
 14.102.250.18
 14.102.250.19
@@ -386,6 +387,9 @@ dyndns-pics.com
 from-sd.com
 from-pr.com
 is-a-hunter.com
+dynu.com
+dynu.net
+freeddns.org
 facebook.br
 facebook.com
 facebook.design
@@ -399,7 +403,9 @@ fb.me
 m.me
 messenger.com
 oculus.com
+oculuscdn.com
 rocksdb.org
+whatsapp.net
 1e100.net
 abc.xyz
 admob.com
@@ -408,6 +414,7 @@ agoogleaday.com
 ampproject.org
 android.com
 androidify.com
+api.ai
 appspot.com
 blog.google
 blogspot.hk
@@ -536,7 +543,9 @@ panoramio.com
 picasaweb.com
 polymer-project.org
 questvisual.com
-recaptcha.net
+api.recaptcha.net
+api-secure.recaptcha.net
+api-verify.recaptcha.net
 redhotlabs.com
 registry.google
 savethedate.foo
@@ -949,6 +958,7 @@ bjs.org
 bjzc.org
 blacklogic.com
 blackvpn.com
+blewpass.com
 tor.blingblingsquad.net
 blinkx.com
 blinw.com
@@ -1010,6 +1020,7 @@ bravotube.net
 brazzers.com
 break.com
 breakgfw.com
+breaking911.com
 breakingtweets.com
 breakwall.net
 briian.com
@@ -1308,6 +1319,7 @@ cotweet.com
 cpj.org
 cq99.us
 crackle.com
+crazys.cc
 crchina.org
 crd-net.org
 creaders.net
@@ -1318,6 +1330,7 @@ crossthewall.net
 csdparty.com
 csuchen.de
 csw.org.uk
+ct.org.tw
 ctao.org
 ctfriend.net
 ctitv.com.tw
@@ -1644,6 +1657,7 @@ falun-co.org
 falunart.org
 falunasia.info
 falunau.org
+falunaz.net
 falundafa.org
 falundafa-dc.org
 falundafa-florida.org
@@ -1679,6 +1693,7 @@ fan-qiang.com
 fangbinxing.com
 fangeming.com
 fangmincn.org
+fanhaodang.com
 fanswong.com
 fanyue.info
 farwestchina.com
@@ -1779,6 +1794,7 @@ free-hada-now.org
 free-proxy.cz
 free.fr
 kineox.free.fr
+tibetlibre.free.fr
 freealim.com
 whitebear.freebearblog.org
 freebrowser.org
@@ -2462,6 +2478,7 @@ jiehua.cz
 hk.jiepang.com
 tw.jiepang.com
 jieshibaobao.com
+jigglegifs.com
 56cun04.jigsy.com
 jigong1024.com
 daodu14.jigsy.com
@@ -2851,6 +2868,7 @@ mofos.com
 mog.com
 molihua.org
 mondex.org
+money-link.com.tw
 www.monlamit.org
 moonbbs.com
 c1522.mooo.com
@@ -2964,6 +2982,7 @@ nde.de
 ndr.de
 ned.org
 nekoslovakia.net
+nepusoku.com
 bbs.netbig.com
 netbirds.com
 netcolony.com
@@ -3325,6 +3344,7 @@ post01.com
 post852.com
 postadult.com
 postimg.org
+potvpn.com
 powercx.com
 powerphoto.org
 www.powerpointninja.com
@@ -3448,6 +3468,8 @@ rapidmoviez.com
 rapidvpn.com
 raremovie.cc
 raremovie.net
+rawgit.com
+rawgithub.com
 razyboard.com
 rcinet.ca
 read100.com
@@ -3550,6 +3572,7 @@ savetibet.fr
 savetibet.nl
 savetibet.org
 savetibet.ru
+savetibetstore.org
 savevid.com
 say2.info
 sbme.me
@@ -3571,6 +3594,7 @@ secretsline.biz
 securetunnel.com
 securitykiss.com
 seed4.me
+news.seehua.com
 seesmic.com
 seevpn.com
 seezone.net
@@ -3607,6 +3631,7 @@ shadowsocks.asia
 www.shadowsocks.com
 shadowsocks.com
 shadowsocks.org
+shadowsocks-r.com
 cn.shafaqna.com
 shambalapost.com
 shambhalasun.com
@@ -3689,13 +3714,11 @@ sketchappsources.com
 skimtube.com
 skybet.com
 users.skynet.be
-skyhighpremium.com
 bbs.skykiwi.com
 www.skype.com
 skyvegas.com
 xskywalker.com
 m.slandr.net
-slavasoft.com
 slaytizle.com
 sleazydream.com
 slheng.com
@@ -3715,10 +3738,7 @@ snapchat.com
 snaptu.com
 sndcdn.com
 sneakme.net
-snooper.co.uk
 snowlionpub.com
-so-ga.net
-so-news.com
 home.so-net.net.tw
 soc.mil
 sockscap64.com
@@ -4497,6 +4517,7 @@ vraiesagesse.net
 vtunnel.com
 vuku.cc
 lists.w3.org
+w3schools.com
 waffle1999.com
 wahas.com
 waigaobu.com
@@ -4583,6 +4604,7 @@ fq.wikia.com
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 wikileaks.ch
+wikileaks.com
 wikileaks.de
 wikileaks.eu
 wikileaks.lu
@@ -4609,6 +4631,7 @@ vegas.williamhill.com
 willw.net
 windowsphoneme.com
 windscribe.com
+wingy.site
 winning11.com
 winwhispers.info
 wiredbytes.com
@@ -4716,6 +4739,7 @@ xnxx.com
 xpdo.net
 xpud.org
 xrentdvd.com
+xskywalker.net
 xtube.com
 blog.xuite.net
 vlog.xuite.net
