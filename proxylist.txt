@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-09-01 06:00:01
+!--- 2017-09-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -116,6 +116,7 @@ mos.ru
 msha.gov
 muzu.tv
 mvg.jp
+mybet.com
 nationwide.com
 www.nbc.com
 neo-miracle.com
@@ -717,9 +718,11 @@ a248.e.akamai.net
 voa-11.akacast.akamaistream.net
 akademiye.org
 akiba-online.com
+al-islam.com
 al-qimmah.net
 alabout.com
 alanhou.com
+alarab.qa
 alasbarricadas.org
 alexlur.org
 alforattv.net
@@ -733,6 +736,7 @@ allervpn.com
 allfinegirls.com
 allgirlmassage.com
 allgirlsallowed.org
+allgravure.com
 alliance.org.hk
 allinfa.com
 alljackpotscasino.com
@@ -876,6 +880,7 @@ bangchen.net
 bangyoulater.com
 bannedbook.org
 bannednews.org
+baramangaonline.com
 barenakedislam.com
 barnabu.co.uk
 bartvpn.com
@@ -1197,6 +1202,7 @@ chinalawandpolicy.com
 chinamule.com
 chinamz.org
 chinapress.com.my
+china-review.com.ua
 chinarightsia.org
 chinasmile.net
 chinasocialdemocraticparty.com
@@ -1364,6 +1370,7 @@ dadazim.com
 dadi360.com
 dafagood.com
 dafahao.com
+dagelijksestandaard.nl
 daidostup.ru
 dailidaili.com
 dailymotion.com
@@ -1500,6 +1507,7 @@ duckmylife.com
 duga.jp
 duihua.org
 duihuahrjournal.org
+dunyabulteni.net
 duoweitimes.com
 duping.net
 duplicati.com
@@ -1993,6 +2001,7 @@ goldbet.com
 goldbetsports.com
 goldeneyevault.com
 goldenfrog.com
+goldjizz.com
 goldstep.net
 goldwave.com
 gongmeng.info
@@ -2143,6 +2152,7 @@ hide.me
 hideipvpn.com
 hideman.net
 hideme.nl
+hidemy.name
 hidemyass.com
 hidemycomp.com
 hihiforum.com
@@ -2225,7 +2235,9 @@ hootsuite.com
 hopedialogue.org
 hopto.org
 hornygamer.com
+hornytrip.com
 hotav.tv
+hotels.cn
 hotfrog.com.tw
 hotgoo.com
 hotpornshow.com
@@ -2374,6 +2386,7 @@ innermongolia.org
 blog.inoreader.com
 inote.tw
 insecam.org
+insidevoa.com
 instagram.com
 institut-tibetain.org
 interfaceaddiction.com
@@ -2405,6 +2418,7 @@ ironbigfools.compython.net
 ironpython.net
 ironsocket.com
 is.gd
+islahhaber.net
 islam.org.hk
 islamawareness.net
 islamhouse.com
@@ -2484,6 +2498,7 @@ jigong1024.com
 daodu14.jigsy.com
 specxinzl.jigsy.com
 wlcnew.jigsy.com
+jihadology.net
 jinbushe.org
 jingsim.org
 zhao.jinhai.de
@@ -2572,6 +2587,7 @@ kir.jp
 kissbbao.cn
 kiwi.kz
 kk-whys.co.jp
+kmuh.org.tw
 knowledgerush.com
 kobo.com
 kobobooks.com
@@ -2629,6 +2645,7 @@ leeao.com.cn
 lefora.com
 left21.hk
 legalporno.com
+legsjapan.com
 leirentv.ca
 leisurecafe.ca
 lematin.ch
@@ -2734,6 +2751,7 @@ mahabodhi.org
 my.mail.ru
 maiplus.com
 maizhong.org
+makkahnewspaper.com
 manicur4ik.ru
 maplew.com
 marc.info
@@ -3041,6 +3059,7 @@ njactb.org
 njuice.com
 nlfreevpn.com
 gooddns.info
+gotdns.ch
 maildns.xyz
 no-ip.org
 opendn.xyz
@@ -3288,6 +3307,7 @@ pinterest.fr
 pinterest.jp
 pinterest.nl
 pinterest.se
+pipii.tv
 piposay.com
 piraattilahti.org
 piring.com
@@ -3310,6 +3330,7 @@ plusbb.com
 pmatehunter.com
 pmates.com
 po2b.com
+pobieramy.top
 podictionary.com
 pokerstars.net
 zh.pokerstrategy.com
@@ -3328,6 +3349,7 @@ pornerbros.com
 pornhd.com
 pornhost.com
 pornhub.com
+pornhubdeutsch.net
 pornmm.net
 pornoxo.com
 pornrapidshare.com
@@ -3341,6 +3363,7 @@ pornvisit.com
 portablevpn.nl
 poskotanews.com
 post01.com
+post76.com
 post852.com
 postadult.com
 postimg.org
@@ -3348,6 +3371,7 @@ potvpn.com
 powercx.com
 powerphoto.org
 www.powerpointninja.com
+presidentlee.tw
 cdn.printfriendly.com
 pritunl.com
 provpnaccounts.com
@@ -3553,6 +3577,7 @@ s1heng.com
 www.s4miniarchive.com
 s8forum.com
 cdn1.lp.saboom.com
+sacks.com
 sacom.hk
 sadpanda.us
 safervpn.com
@@ -3674,6 +3699,7 @@ sidelinessportseatery.com
 sijihuisuo.club
 sijihuisuo.com
 silkbook.com
+simbolostwitter.com
 simplecd.org
 simpleproductivityblog.com
 bbs.sina.com
@@ -3865,6 +3891,7 @@ sunskyforum.com
 sunta.com.tw
 sunvpn.net
 suoluo.org
+superfreevpn.com
 supervpn.net
 suppig.net
 suprememastertv.com
@@ -4599,6 +4626,7 @@ whippedass.com
 whotalking.com
 whylover.com
 whyx.org
+zh.ecdm.wikia.com
 evchk.wikia.com
 fq.wikia.com
 cn.uncyclopedia.wikia.com
@@ -4662,6 +4690,7 @@ worldvpn.net
 wordpress.com
 cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
+hka8964.wordpress.com
 hkanews.wordpress.com
 jobnewera.wordpress.com
 sujiatun.wordpress.com
