@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-09-06 06:00:02
+!--- 2017-09-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -1859,8 +1859,8 @@ frontlinedefenders.org
 frootvpn.com
 fscked.org
 fsurf.com
-ftchinese.com
 www.ftchinese.com
+ftchinese.com
 ftv.com.tw
 fucd.com
 fuckcnnic.net
@@ -1955,6 +1955,7 @@ ggssl.com
 ghost.org
 ghostpath.com
 ghut.org
+giantessnight.com
 gifree.com
 giga-web.jp
 tw.gigacircle.com
@@ -2321,6 +2322,7 @@ warbler.iconfactory.net
 iconpaper.org
 icu-project.org
 w.idaiwan.com
+iddddg.com
 idemocracy.asia
 identi.ca
 idiomconnection.com
@@ -3063,6 +3065,7 @@ gotdns.ch
 maildns.xyz
 no-ip.org
 opendn.xyz
+servehttp.com
 sytes.net
 whodns.xyz
 zapto.org
@@ -3744,6 +3747,7 @@ bbs.skykiwi.com
 www.skype.com
 skyvegas.com
 xskywalker.com
+skyxvpn.com
 m.slandr.net
 slaytizle.com
 sleazydream.com
@@ -4361,6 +4365,7 @@ china.ucanews.com
 ucdc1998.org
 uderzo.it
 udn.com
+udn.com.tw
 udnbkk.com
 uforadio.com.tw
 ufreevpn.com
