@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-09-11 06:00:02
+!--- 2017-09-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -192,6 +192,7 @@ zozotown.com
 174.142.105.153
 69.65.19.160
 xn--4gq171p.com
+xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 china-mmm.jp.net
 lsxszzg.com
@@ -573,9 +574,10 @@ youtubeeducation.com
 youtubegaming.com
 ytimg.com
 zynamics.com
-kat.cr
 naughtyamerica.com
 v2ex.com
+gov.taipei
+gov.tw
 030buy.com
 0rz.tw
 1-apple.com.tw
@@ -1077,6 +1079,7 @@ calgarychinese.ca
 calgarychinese.com
 calgarychinese.net
 blog.calibre-ebook.com
+google.calstate.edu
 falun.caltech.edu
 its.caltech.edu
 cam4.com
@@ -1086,6 +1089,7 @@ camfrog.com
 cams.com
 cams.org.sg
 canadameet.com
+canalporno.com
 bbs.cantonese.asia
 canyu.org
 cao.im
@@ -3881,6 +3885,7 @@ student.tw
 studentsforafreetibet.org
 stumbleupon.com
 stupidvideos.com
+successfn.com
 panamapapers.sueddeutsche.de
 sugarsync.com
 sugobbs.com
@@ -4457,6 +4462,7 @@ vcfbuilder.org
 velkaepocha.sk
 venbbs.com
 venchina.com
+venetianmacao.com
 veoh.com
 mysite.verizon.net
 vermonttibet.org
@@ -4828,6 +4834,7 @@ yasukuni.or.jp
 yayabay.com
 ydy.com
 yeahteentube.com
+yecl.net
 yeelou.com
 yeeyi.com
 yegle.net
@@ -4836,7 +4843,7 @@ yes123.com.tw
 yesasia.com
 yesasia.com.hk
 yes-news.com
-yecl.net
+yespornplease.com
 yhcw.net
 yibada.com
 yibaochina.com
@@ -4942,4 +4949,3 @@ zvereff.com
 zynaima.com
 zyzc9.com
 zzcartoon.com
-gov.tw
