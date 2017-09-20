@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-09-16 06:00:01
+!--- 2017-09-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -194,6 +194,8 @@ zozotown.com
 xn--4gq171p.com
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
+agro.hk
+pixiv.net
 china-mmm.jp.net
 lsxszzg.com
 china-mmm.net
@@ -958,6 +960,7 @@ bit.ly
 bitcointalk.org
 bitshare.com
 bitsnoop.com
+bitvise.com
 bizhat.com
 bl-doujinsouko.com
 bjnewlife.org
