@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-10-06 06:00:02
+!--- 2017-10-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -128,6 +128,7 @@ nflximg.net
 nflxext.com
 nflxso.net
 nflxvideo.net
+nic.gov
 mo.nightlife141.com
 nordstrom.com
 nordstromimage.com
@@ -583,6 +584,11 @@ youtubegaming.com
 ytimg.com
 zynamics.com
 naughtyamerica.com
+updates.tdesktop.com
+telegram.dog
+telegram.me
+telegram.org
+telegramdownload.com
 v2ex.com
 gov.taipei
 gov.tw
@@ -1325,6 +1331,7 @@ commentshk.com
 communistcrimes.org
 communitychoicecu.com
 compileheart.com
+conoha.jp
 contactmagazine.net
 convio.net
 coobay.com
@@ -2415,6 +2422,7 @@ internetfreedom.org
 internetpopculture.com
 inxian.com
 ipalter.com
+ipfire.org
 iphone4hongkong.com
 iphonehacks.com
 iphonetaiwan.org
@@ -2570,6 +2578,7 @@ kalachakralugano.org
 kankan.today
 kannewyork.com
 kanshifang.com
+kantie.org
 kanzhongguo.com
 kanzhongguo.eu
 kaotic.com
@@ -2949,6 +2958,7 @@ my-proxy.com
 my-private-network.co.uk
 forum.my903.com
 myactimes.com
+myanniu.com
 myaudiocast.com
 myav.com.tw
 mybbs.us
@@ -3467,6 +3477,7 @@ python.com.tw
 pythonhackers.com
 qanote.com
 qgirl.com.tw
+qiandao.today
 qi-gong.me
 qidian.ca
 qienkuen.org
@@ -4010,9 +4021,6 @@ teck.in
 teeniefuck.net
 teensinasia.com
 telecomspace.com
-telegram.dog
-telegram.org
-telegramdownload.com
 telegraph.co.uk
 tenacy.com
 tenzinpalmo.com
@@ -4948,7 +4956,6 @@ book.zi5.me
 ziddu.com
 zillionk.com
 zinio.com
-ziplib.com
 ziporn.com
 zkaip.com
 realforum.zkiz.com
