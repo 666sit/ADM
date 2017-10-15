@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-10-11 06:00:02
+!--- 2017-10-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -66,7 +66,6 @@ fxnetworks.com
 g-area.org
 gettyimages.com
 getuploader.com
-github.com
 raw.githubusercontent.com
 glass8.eu
 glype.com
@@ -85,6 +84,7 @@ www.hustlercash.com
 hybrid-analysis.com
 ilovelongtoes.com
 imgur.com
+imlive.com
 javhub.net
 javhuge.com
 javlibrary.com
@@ -166,7 +166,6 @@ superpages.com
 swagbucks.com
 switch1.jp
 tapanwap.com
-target.com
 thebodyshop-usa.com
 tma.co.jp
 tracfone.com
@@ -200,8 +199,11 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 agro.hk
+boomssr.com
 line-scdn.net
+jiji.com
 pixiv.net
+i.lithium.com
 china-mmm.jp.net
 lsxszzg.com
 china-mmm.net
@@ -210,6 +212,12 @@ allowed.org
 now.im
 amazon.com
 s3-ap-northeast-1.amazonaws.com
+aolchannels.aol.com
+video.aol.ca
+video.aol.co.uk
+video.aol.com
+search.aol.com
+www.aolnews.com
 avmo.pw
 avmoo.com
 avmoo.net
@@ -217,6 +225,13 @@ avmoo.pw
 javmoo.xyz
 javtag.com
 javzoo.com
+tellme.pw
+bbc.co.uk
+bbc.com
+bbc.comzhongwen
+newsforums.bbc.co.uk
+bbcchinese.com
+bbc.in
 1dumb.com
 25u.com
 2waky.com
@@ -401,6 +416,7 @@ is-a-hunter.com
 dynu.com
 dynu.net
 freeddns.org
+cdninstagram.com
 facebook.br
 facebook.com
 facebook.design
@@ -411,6 +427,8 @@ facebook.nl
 facebook.se
 fb.com
 fb.me
+fbcdn.net
+instagram.com
 m.me
 messenger.com
 oculus.com
@@ -439,6 +457,7 @@ chromestatus.com
 chromium.org
 com.google
 creativelab5.com
+crrev.com
 data-vocabulary.org
 debug.com
 deepmind.com
@@ -574,6 +593,7 @@ waymo.com
 webmproject.org
 webrtc.org
 whatbrowser.org
+widevine.com
 withgoogle.com
 xn--ngstr-lra8j.com
 youtu.be
@@ -584,6 +604,20 @@ youtubegaming.com
 ytimg.com
 zynamics.com
 naughtyamerica.com
+a1.nyt.com
+int.nyt.com
+s1.nyt.com
+static01.nyt.com
+typeface.nyt.com
+nytchina.com
+nytcn.me
+nytco.com
+nyti.ms
+nytimes.com
+nytimg.com
+userapi.nytlog.com
+cn.nytstyle.com
+nytstyle.com
 updates.tdesktop.com
 telegram.dog
 telegram.me
@@ -593,6 +627,33 @@ v2ex.com
 gov.taipei
 gov.tw
 kinmen.org.tw
+data.flurry.com
+page.bid.yahoo.com
+tw.bid.yahoo.com
+blogs.yahoo.co.jp
+search.yahoo.co.jp
+buy.yahoo.com.tw
+hk.yahoo.com
+hk.knowledge.yahoo.com
+hk.myblog.yahoo.com
+news.yahoo.com
+hk.news.yahoo.com
+hk.rd.yahoo.com
+hk.search.yahoo.com
+hk.video.news.yahoo.com
+meme.yahoo.com
+tw.answers.yahoo.com
+tw.knowledge.yahoo.com
+tw.mall.yahoo.com
+tw.yahoo.com
+tw.mobi.yahoo.com
+tw.myblog.yahoo.com
+tw.news.yahoo.com
+pulse.yahoo.com
+upcoming.yahoo.com
+video.yahoo.com
+yahoo.com.hk
+duckduckgo-owned-server.yahoo.net
 030buy.com
 0rz.tw
 1-apple.com.tw
@@ -809,12 +870,6 @@ aobo.com.au
 aofriend.com
 aofriend.com.au
 aojiao.org
-aolchannels.aol.com
-video.aol.ca
-video.aol.co.uk
-video.aol.com
-search.aol.com
-www.aolnews.com
 aomiwang.com
 video.ap.org
 apetube.com
@@ -907,12 +962,6 @@ bayvoice.net
 dajusha.baywords.com
 bbchat.tv
 bb-chat.tv
-bbc.co.uk
-bbc.com
-bbc.comzhongwen
-newsforums.bbc.co.uk
-bbcchinese.com
-bbc.in
 bbg.gov
 bbkz.com
 bbnradio.org
@@ -942,7 +991,9 @@ berlintwitterwall.com
 berm.co.nz
 bestforchina.org
 bestgore.com
+bestpornstardb.com
 bestvpn.com
+bestvpnanalysis.com
 bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
@@ -968,6 +1019,7 @@ bignews.org
 bigsound.org
 billypan.com
 billywr.com
+binux.me
 bipic.net
 bit.do
 bit.ly
@@ -1152,7 +1204,6 @@ cdcparty.com
 cdef.org
 cdig.info
 cdjp.org
-cdninstagram.com
 cdnews.com.tw
 cdp1989.org
 cdp1998.org
@@ -1256,7 +1307,6 @@ chrdnet.com
 christianfreedom.org
 christianstudy.com
 christusrex.org
-chromeadblock.com
 chubold.com
 chubun.com
 chuizi.net
@@ -1717,7 +1767,6 @@ fanqiangzhe.com
 fapdu.com
 faproxy.com
 fawanghuihui.org
-fbcdn.net
 fanqiangyakexi.net
 fail.hk
 famunion.com
@@ -2091,6 +2140,7 @@ gu-chu-sum.org
 guaguass.com
 guaguass.org
 guishan.org
+gumroad.com
 gunsamerica.com
 guruonline.hk
 gvlib.com
@@ -2389,7 +2439,6 @@ www.imdb.com
 imdb.com
 img.ly
 imkev.com
-imlive.com
 immoral.jp
 impact.org.au
 impp.mn
@@ -2412,7 +2461,6 @@ blog.inoreader.com
 inote.tw
 insecam.org
 insidevoa.com
-instagram.com
 institut-tibetain.org
 interfaceaddiction.com
 internationalrivers.org
@@ -2547,6 +2595,7 @@ joeedelman.com
 journalchretien.net
 journalofdemocracy.org
 joymiihub.com
+joyourself.com
 jpopforum.net
 jubushoushen.com
 juhuaren.com
@@ -2685,6 +2734,7 @@ blog.lester850.info
 lesoir.be
 letou.com
 letscorp.net
+cdn.assets.lfpcontent.com
 lhakar.org
 lhasocialwork.org
 liangyou.net
@@ -2695,6 +2745,7 @@ libertytimes.com.tw
 blogs.libraryinformationtechnology.com
 lidecheng.com
 lighten.org.tw
+lightnovel.cn
 limiao.net
 linkuswell.com
 abitno.linpie.com
@@ -3031,6 +3082,7 @@ ndr.de
 ned.org
 nekoslovakia.net
 nepusoku.com
+net-fits.pro
 bbs.netbig.com
 netbirds.com
 netcolony.com
@@ -3138,24 +3190,10 @@ nvquan.org
 nvtongzhisheng.org
 nwtca.org
 nyaa.eu
-nyaa.se
+nyaa.si
 nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
-a1.nyt.com
-int.nyt.com
-s1.nyt.com
-static01.nyt.com
-typeface.nyt.com
-nytchina.com
-nytcn.me
-nytco.com
-nyti.ms
-nytimes.com
-nytimg.com
-userapi.nytlog.com
-cn.nytstyle.com
-nytstyle.com
 nzchinese.com
 nzchinese.net.nz
 observechina.net
@@ -3212,6 +3250,7 @@ demo.opera-mini.net
 www.orchidbbs.com
 organcare.org.tw
 organharvestinvestigation.net
+orgasm.com
 orgfree.com
 orient-doll.com
 orientaldaily.com.my
@@ -3275,6 +3314,7 @@ pastebin.com
 pastie.org
 blog.pathtosharepoint.com
 pbs.org
+video.pbs.org
 pbwiki.com
 pbworks.com
 developers.box.net
@@ -3690,6 +3730,7 @@ shadowsky.xyz
 shadowsocks.asia
 www.shadowsocks.com
 shadowsocks.com
+shadowsocks.com.hk
 shadowsocks.org
 shadowsocks-r.com
 cn.shafaqna.com
@@ -4187,6 +4228,7 @@ toodoc.com
 toonel.net
 top81.ws
 topnews.in
+toppornsites.com
 torguard.net
 top.tv
 topshareware.com
@@ -4270,6 +4312,8 @@ tuvpn.com
 tuzaijidi.com
 tw01.org
 tumblr.com
+cosmic.monar.ch
+slutmoonbeam.com
 blog.soylent.com
 tv.com
 tvants.com
@@ -4309,6 +4353,7 @@ tweettunnel.com
 tweetwally.com
 tweetymail.com
 twelve.today
+tweez.net
 twftp.org
 twibase.com
 twibble.de
@@ -4439,6 +4484,7 @@ upload4u.info
 uploaded.net
 uploaded.to
 uploadstation.com
+upmedia.mg
 upornia.com
 uproxy.org
 tor.cn.uptodown.com
@@ -4552,12 +4598,12 @@ vpndada.com
 vpnfan.com
 vpnfire.com
 vpnforgame.net
-vpnunlimitedapp.com
 vpngate.jp
 vpngate.net
 vpngratis.net
 vpnhq.com
 vpnmaster.com
+vpnmentor.com
 vpninja.net
 vpnintouch.com
 vpnintouch.net
@@ -4574,6 +4620,7 @@ vpnsp.com
 vpntraffic.com
 vpntunnel.com
 vpnuk.info
+vpnunlimitedapp.com
 vpnvip.com
 vpnworldwide.com
 vporn.com
@@ -4686,8 +4733,6 @@ wikilivres.info
 wikimapia.org
 zh.wikisource.org
 zh.wikinews.org
-zh.wikivoyage.org
-zh.wiktionary.org
 zh.wikipedia.org
 zh.m.wikipedia.org
 wuu.wikipedia.org
@@ -4829,32 +4874,6 @@ xys.org
 xysblogs.org
 xyy69.com
 xyy69.info
-page.bid.yahoo.com
-tw.bid.yahoo.com
-blogs.yahoo.co.jp
-search.yahoo.co.jp
-buy.yahoo.com.tw
-hk.yahoo.com
-hk.knowledge.yahoo.com
-hk.myblog.yahoo.com
-news.yahoo.com
-hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com
-hk.video.news.yahoo.com
-meme.yahoo.com
-tw.answers.yahoo.com
-tw.knowledge.yahoo.com
-tw.mall.yahoo.com
-tw.yahoo.com
-tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-tw.news.yahoo.com
-pulse.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
-yahoo.com.hk
-duckduckgo-owned-server.yahoo.net
 yakbutterblues.com
 yam.com
 yam.org.tw
