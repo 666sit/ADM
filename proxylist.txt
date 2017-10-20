@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-10-16 06:00:01
+!--- 2017-10-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -200,8 +200,9 @@ xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 agro.hk
 boomssr.com
-line-scdn.net
 jiji.com
+line-scdn.net
+cloud.mail.ru
 pixiv.net
 i.lithium.com
 china-mmm.jp.net
@@ -428,14 +429,17 @@ facebook.se
 fb.com
 fb.me
 fbcdn.net
+fbsbx.com
 instagram.com
 m.me
 messenger.com
 oculus.com
 oculuscdn.com
 rocksdb.org
+thefacebook.com
 whatsapp.net
 1e100.net
+466453.com
 abc.xyz
 admob.com
 adsense.com
@@ -446,6 +450,7 @@ androidify.com
 api.ai
 appspot.com
 blog.google
+blogblog.com
 blogspot.hk
 blogspot.jp
 certificate-transparency.org
@@ -465,6 +470,7 @@ deja.com
 design.google
 digisfera.com
 domains.google
+duck.com
 environment.google
 feedburner.com
 g.co
@@ -534,10 +540,11 @@ googleapps.com
 googleartproject.com
 googleblog.com
 googlebot.com
-googlecapital.com
+googlechinawebmaster.com
 googlecode.com
 googlecommerce.com
 googledomains.com
+googlearth.com
 googleearth.com
 googledrive.com
 googlegroups.com
@@ -546,8 +553,11 @@ googleideas.com
 googleinsidesearch.com
 googlelabs.com
 googlemail.com
+googlemashups.com
+googlepagecreator.com
 googleplay.com
 googleplus.com
+googlescholar.com
 googlesource.com
 googlesyndication.com
 googleusercontent.com
@@ -588,6 +598,7 @@ teachparentstech.org
 tensorflow.org
 thinkwithgoogle.com
 tiltbrush.com
+urchin.com
 waveprotocol.org
 waymo.com
 webmproject.org
@@ -601,14 +612,12 @@ youtube.com
 youtube-nocookie.com
 youtubeeducation.com
 youtubegaming.com
+yt.be
 ytimg.com
 zynamics.com
 naughtyamerica.com
-a1.nyt.com
-int.nyt.com
-s1.nyt.com
 static01.nyt.com
-typeface.nyt.com
+nyt.com
 nytchina.com
 nytcn.me
 nytco.com
@@ -920,6 +929,7 @@ atchinese.com
 atgfw.org
 atlaspost.com
 atdmt.com
+atlanta168.com
 atnext.com
 ice.audionow.com
 avaaz.org
@@ -1043,7 +1053,6 @@ blockcn.com
 blockless.com
 blog.de
 blog.jp
-blogblog.com
 blogcatalog.com
 blogcity.me
 blogger.com
@@ -1168,6 +1177,7 @@ cap.org.hk
 carabinasypistolas.com
 cardinalkungfoundation.org
 carmotorshow.com
+ss.carryzhou.com
 cartoonmovement.com
 casadeltibetbcn.org
 casatibet.org.mx
@@ -1622,6 +1632,7 @@ ebony-beauty.com
 ebookbrowse.com
 ebookee.com
 ecfa.org.tw
+ushuarencity.echainhost.com
 ecimg.tw
 ecministry.net
 economist.com
@@ -1785,7 +1796,6 @@ fastssh.com
 faststone.org
 favstar.fm
 faydao.com
-fbsbx.com
 fc2.com
 fc2china.com
 fc2cn.com
@@ -2139,6 +2149,7 @@ gts-vpn.com
 gu-chu-sum.org
 guaguass.com
 guaguass.org
+guangming.com.my
 guishan.org
 gumroad.com
 gunsamerica.com
@@ -2186,6 +2197,7 @@ hasaowall.com
 bbs.hasi.wang
 have8.com
 hclips.com
+hdlt.me
 hdtvb.net
 hdzog.com
 heartyit.com
@@ -2223,6 +2235,7 @@ hi-on.org.tw
 hidden-advent.org
 hidecloud.com
 hide.me
+hidein.net
 hideipvpn.com
 hideman.net
 hideme.nl
@@ -2821,6 +2834,7 @@ luxebc.com
 lvhai.org
 lvv2.com
 lyfhk.net
+lzmtnews.org
 macrovpn.com
 macts.com.tw
 mad-ar.ch
@@ -2831,6 +2845,7 @@ my.mail.ru
 maiplus.com
 maizhong.org
 makkahnewspaper.com
+mamingzhe.com
 manicur4ik.ru
 maplew.com
 marc.info
@@ -2953,6 +2968,7 @@ mk5000.com
 mlcool.com
 mmaaxx.com
 mmmca.com
+mnewstv.com
 mobatek.net
 mobile01.com
 mobileways.de
@@ -3108,6 +3124,7 @@ newschinacomment.org
 newscn.org
 newspeak.cc
 newsancai.com
+newsdetox.ca
 newsdh.com
 newstamago.com
 newstapa.org
@@ -3167,6 +3184,7 @@ noypf.com
 npa.go.jp
 npnt.me
 nps.gov
+nradio.me
 nrk.no
 ntd.tv
 ntdtv.com
@@ -3364,6 +3382,7 @@ photofocus.com
 phuquocservices.com
 picidae.net
 picturesocial.com
+pin-cong.com
 pin6.com
 ping.fm
 pinimg.com
@@ -3391,6 +3410,7 @@ placemix.com
 pictures.playboy.com
 playboy.com
 playboyplus.com
+player.fm
 playno1.com
 playpcesor.com
 plays.com.tw
@@ -3535,6 +3555,7 @@ quannengshen.org
 quantumbooter.net
 quitccp.net
 quitccp.org
+quora.com
 quran.com
 quranexplorer.com
 qusi8.net
@@ -3793,6 +3814,7 @@ singfortibet.com
 singpao.com.hk
 singtao.com
 news.singtao.ca
+singtaousa.com
 sino-monthly.com
 sinocast.com
 sinocism.com
@@ -4355,6 +4377,7 @@ tweetymail.com
 twelve.today
 tweez.net
 twftp.org
+twgreatdaily.com
 twibase.com
 twibble.de
 twibbon.com
@@ -4502,6 +4525,7 @@ beta.usejump.com
 usfk.mil
 usma.edu
 usmc.mil
+usocctn.com
 tarr.uspto.gov
 tsdr.uspto.gov
 ustream.tv
@@ -4777,6 +4801,8 @@ cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
 hka8964.wordpress.com
 hkanews.wordpress.com
+hqsbonline.wordpress.com
+investigating.wordpress.com
 jobnewera.wordpress.com
 sujiatun.wordpress.com
 wp.com
@@ -4893,6 +4919,7 @@ yesasia.com
 yesasia.com.hk
 yes-news.com
 yespornplease.com
+yeyeclub.com
 yhcw.net
 yibada.com
 yibaochina.com
@@ -4949,6 +4976,7 @@ zello.com
 zengjinyan.org
 zenmate.com
 zenmate.com.ru
+zeronet.io
 zeutch.com
 zfreet.com
 zgsddh.com
