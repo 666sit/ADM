@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-10-21 06:00:02
+!--- 2017-10-26 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -764,6 +764,8 @@ a5.com.ru
 aamacau.com
 abc.com
 abchinese.com
+abclite.net
+www.abclite.net
 ablwang.com
 aboluowang.com
 aboutgfw.com
@@ -874,6 +876,7 @@ anthonycalzadilla.com
 anti1984.com
 antichristendom.com
 antiwave.net
+anyporn.com
 anysex.com
 aobo.com.au
 aofriend.com
@@ -1567,6 +1570,7 @@ dphk.org
 dpp.org.tw
 dpr.info
 dragonsprings.org
+dreamamateurs.com
 drepung.org
 drgan.net
 drmingxia.org
@@ -1849,6 +1853,7 @@ flickrhivemind.net
 flickriver.com
 fling.com
 flipkart.com
+flog.tw
 cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
@@ -3323,6 +3328,7 @@ panluan.net
 pao-pao.net
 paper.li
 paperb.us
+paradisehill.cc
 paradisepoker.com
 partycasino.com
 partypoker.com
@@ -4804,6 +4810,7 @@ hkanews.wordpress.com
 hqsbonline.wordpress.com
 investigating.wordpress.com
 jobnewera.wordpress.com
+wo3ttt.wordpress.com
 sujiatun.wordpress.com
 wp.com
 wow.com
@@ -4931,12 +4938,14 @@ yipub.com
 yinlei.org
 yizhihongxing.com
 yobt.com
+yobt.tv
 yogichen.org
 yong.hu
 yorkbbs.ca
 youxu.info
 youjizz.com
 youmaker.com
+youngpornvideos.com
 youngspiration.hk
 youpai.org
 your-freedom.net
@@ -4945,6 +4954,7 @@ yourprivatevpn.com
 yousendit.com
 youthnetradio.org
 blog.youthwant.com.tw
+me.youthwant.com.tw
 share.youthwant.com.tw
 topic.youthwant.com.tw
 youporn.com
