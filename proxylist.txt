@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-10-26 06:00:01
+!--- 2017-10-31 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -199,6 +199,7 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 agro.hk
+apkmirror.com
 boomssr.com
 jiji.com
 line-scdn.net
@@ -1418,6 +1419,7 @@ creadersnet.com
 cristyli.com
 crocotube.com
 crossthewall.net
+crossvpn.net
 csdparty.com
 csuchen.de
 csw.org.uk
@@ -3782,6 +3784,7 @@ shiatv.net
 shicheng.org
 shinychan.com
 shipcamouflage.com
+shireyishunjian.com
 shitaotv.org
 shixiao.org
 shizhao.org
@@ -3844,6 +3847,7 @@ sketchappsources.com
 skimtube.com
 skybet.com
 users.skynet.be
+skyking.com.tw
 bbs.skykiwi.com
 www.skype.com
 skyvegas.com
@@ -3922,6 +3926,7 @@ spankingtube.com
 spankwire.com
 spb.com
 speakerdeck.com
+speedify.com
 spem.at
 spencertipping.com
 spicevpn.com
@@ -4143,6 +4148,7 @@ tianhuayuan.com
 tianlawoffice.com
 tianti.io
 tiantibooks.org
+tianyantong.org.cn
 tianzhu.org
 tibet.at
 tibet.ca
