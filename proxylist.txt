@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-11-01 06:00:02
+!--- 2017-11-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -154,7 +154,6 @@ rd.com
 rdio.com
 riseup.net
 sadistic-v.com
-shutterstock.com
 slacker.com
 sm-miracle.com
 spotify.com
@@ -205,7 +204,9 @@ boomssr.com
 jiji.com
 line-scdn.net
 cloud.mail.ru
+cdn-images.mailchimp.com
 go.nesnode.com
+nikkei.com
 pixiv.net
 i.lithium.com
 china-mmm.jp.net
@@ -577,6 +578,7 @@ html5rocks.com
 iam.soy
 igoogle.com
 itasoftware.com
+lers.google
 like.com
 madewithcode.com
 material.io
@@ -721,6 +723,7 @@ zhao.1984.city
 3ren.ca
 3tui.net
 4bluestones.biz
+4chan.com
 4everproxy.com
 4rbtv.com
 4shared.com
@@ -999,6 +1002,7 @@ beevpn.com
 behindkink.com
 beijing1989.com
 beijingspring.com
+beijingzx.org
 belamionline.com
 bell.wiki
 bemywife.cc
@@ -1036,6 +1040,7 @@ bigsound.org
 billypan.com
 billywr.com
 binux.me
+ai.binwang.me
 bipic.net
 bit.do
 bit.ly
@@ -1459,6 +1464,7 @@ dadazim.com
 dadi360.com
 dafagood.com
 dafahao.com
+dafoh.org
 dagelijksestandaard.nl
 daidostup.ru
 dailidaili.com
@@ -1777,6 +1783,7 @@ faluninfo.net
 falunpilipinas.net
 falunworld.net
 familyfed.org
+fangeming.com
 fanglizhi.info
 fangong.org
 fangongheike.com
@@ -1791,7 +1798,6 @@ fail.hk
 famunion.com
 fan-qiang.com
 fangbinxing.com
-fangeming.com
 fangmincn.org
 fanhaodang.com
 fanswong.com
@@ -2000,6 +2006,7 @@ gardennetworks.org
 gartlive.com
 gate-project.com
 gather.com
+gatherproxy.com
 gati.org.tw
 gaybubble.com
 gaycn.net
@@ -2175,6 +2182,7 @@ h1n1china.org
 hacg.club
 hacg.in
 hacg.li
+hacg.me
 hacg.red
 hacken.cc
 hacker.org
@@ -2364,6 +2372,7 @@ huaglad.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
+huashangnews.com
 bbs.huasing.org
 huaxia-news.com
 huaxiabao.org
@@ -2804,6 +2813,7 @@ livevideo.com
 liwangyang.com
 lizhizhuangbi.com
 lkcn.net
+llss.me
 load.to
 lobsangwangyal.com
 localdomain.ws
@@ -3672,6 +3682,7 @@ rti.org.tw
 rtycminnesota.org
 rukor.org
 rushbee.com
+ruten.com.tw
 rutube.ru
 ruyiseek.com
 rxhj.net
@@ -3797,6 +3808,7 @@ shop2000.com.tw
 shopping.com
 showhaotu.com
 showtime.jp
+shutterstock.com
 ch.shvoong.com
 shwchurch.org
 www.shwchurch.org
@@ -3940,6 +3952,7 @@ sproutcore.com
 sproxy.info
 srocket.us
 ss-link.com
+ssglobal.co
 ssglobal.me
 ssh91.com
 sspro.ml
@@ -4280,6 +4293,7 @@ torrenty.org
 torrentz.eu
 torvpn.com
 totalvpn.com
+toutiaoabc.com
 towngain.com
 toypark.in
 toytractorshow.com
@@ -4908,6 +4922,7 @@ xvideos.es
 xxbbx.com
 xxlmovies.com
 xxx.com
+xxx.xxx
 xxxfuckmom.com
 xxxx.com.au
 xxxymovies.com
