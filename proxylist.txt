@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-11-06 06:00:02
+!--- 2017-11-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -1225,6 +1225,7 @@ cdcparty.com
 cdef.org
 cdig.info
 cdjp.org
+cdn-apple.com
 cdnews.com.tw
 cdp1989.org
 cdp1998.org
@@ -2906,6 +2907,7 @@ medium.com
 meetav.com
 meetup.com
 mefeedia.com
+jihadintel.meforum.org
 mega.nz
 megaproxy.com
 megarotic.com
@@ -4623,6 +4625,7 @@ vivthomas.com
 vjmedia.com.hk
 vllcs.org
 vmixcore.com
+vnet.link
 cn.voa.mobi
 tw.voa.mobi
 voachineseblog.com
