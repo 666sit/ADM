@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-11-16 06:00:02
+!--- 2017-11-21 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -201,6 +201,7 @@ s3-ap-southeast-2.amazonaws.com
 agro.hk
 apkmirror.com
 boomssr.com
+glorystar.me
 jiji.com
 line-scdn.net
 cloud.mail.ru
@@ -208,7 +209,9 @@ cdn-images.mailchimp.com
 go.nesnode.com
 nikkei.com
 pixiv.net
+sulian.me
 i.lithium.com
+xm.com
 china-mmm.jp.net
 lsxszzg.com
 china-mmm.net
@@ -639,10 +642,17 @@ telegram.dog
 telegram.me
 telegram.org
 telegramdownload.com
-v2ex.com
+periscope.tv
+pscp.tv
+t.co
+twimg.com
+twitter.com
+twitter.jp
+vine.co
 gov.taipei
 gov.tw
 kinmen.org.tw
+v2ex.com
 data.flurry.com
 page.bid.yahoo.com
 tw.bid.yahoo.com
@@ -1982,6 +1992,7 @@ fuyin.net
 fuyindiantai.org
 fuyu.org.tw
 fw.cm
+fxcm-chinese.com
 fzh999.com
 fzh999.net
 fzlm.com
@@ -2029,15 +2040,12 @@ gdzf.org
 geek-art.net
 geekerhome.com
 geekheart.info
-geekmanuals.com
 gekikame.com
 gelbooru.com
 geocities.co.jp
 geocities.com
 hk.geocities.com
 geocities.jp
-geohot.com
-geometrictools.com
 gerefoundation.org
 getastrill.com
 getchu.com
@@ -2164,7 +2172,6 @@ wozy.in
 gospelherald.com
 hk.gradconnection.com
 grangorz.org
-graylog2.org
 greatfire.org
 greatroc.tw
 gts-vpn.com
@@ -2217,7 +2224,6 @@ happy-vpn.com
 haproxy.org
 hardsextube.com
 harunyahya.com
-hasaowall.com
 bbs.hasi.wang
 have8.com
 hclips.com
@@ -2243,9 +2249,7 @@ helpster.de
 helpzhuling.org
 hentaitube.tv
 hentaivideoworld.com
-getcloudapp.com
-cl.ly
-getsmartlinks.com
+id.heroku.com
 heqinglian.net
 heungkongdiscuss.com
 hexieshe.com
@@ -2501,8 +2505,6 @@ inote.tw
 insecam.org
 insidevoa.com
 institut-tibetain.org
-interfaceaddiction.com
-internationalrivers.org
 internet.org
 internetdefenseleague.org
 internetfreedom.org
@@ -2526,7 +2528,6 @@ iptvbin.com
 ipvanish.com
 iredmail.org
 chinese.irib.ir
-ironicsoftware.com
 ironbigfools.compython.net
 ironpython.net
 ironsocket.com
@@ -2630,7 +2631,6 @@ weiboscope.jmsc.hku.hk
 jmscult.com
 joachims.org
 jobso.tv
-joeedelman.com
 journalchretien.net
 journalofdemocracy.org
 joymiihub.com
@@ -2676,7 +2676,6 @@ karmapa.org
 karmapa-teachings.org
 kba-tx.org
 kcoolonline.com
-kcsoftwares.com
 kebrum.com
 kechara.com
 keepandshare.com
@@ -2827,16 +2826,13 @@ load.to
 lobsangwangyal.com
 localdomain.ws
 localpresshk.com
-lockdown.com
 lockestek.com
 logbot.net
 logiqx.com
 secure.logmein.com
-logmike.com
 londonchinese.ca
 longhair.hk
 longtermly.net
-lookingglasstheatre.org
 lookpic.com
 looktoronto.com
 lotsawahouse.org
@@ -3086,6 +3082,7 @@ mypopescu.com
 myradio.hk
 mysinablog.com
 myspace.com
+myspacecdn.com
 mytalkbox.com
 mytizi.com
 naacoalition.org
@@ -3502,7 +3499,6 @@ provpnaccounts.com
 proxfree.com
 proxyanonimo.es
 proxynetwork.org.uk
-pscp.tv
 pts.org.tw
 pttvan.org
 pubu.com.tw
@@ -4037,6 +4033,7 @@ surfeasy.com
 surfeasy.com.au
 surrenderat20.net
 suyangg.com
+svsfx.com
 swissvpn.net
 switchvpn.net
 swift-tools.net
@@ -4048,6 +4045,7 @@ blog.syx86.com
 blog.syx86.cn
 szbbs.net
 szetowah.org.hk
+t-g.com
 t35.com
 t66y.com
 taa-usa.org
@@ -4115,6 +4113,7 @@ tccwonline.org
 tcewf.org
 tchrd.org
 tcnynj.org
+tcpspeed.co
 tcpspeed.com
 tcsofbc.org
 tcsovi.org
@@ -4459,13 +4458,9 @@ tweeplike.me
 tweepguide.com
 turbotwitter.com
 twitvid.com
-199.59.148.20
-t.co
 twt.tl
 twittbot.net
 ads-twitter.com
-twitter.com
-twitter.jp
 twttr.com
 twitter4j.org
 twittercounter.com
@@ -4482,7 +4477,6 @@ twitzap.com
 twiyia.com
 twstar.net
 twtkr.com
-twimg.com
 twnorth.org.tw
 twskype.com
 twtrland.com
