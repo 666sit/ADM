@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-11-21 06:00:02
+!--- 2017-11-26 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -201,6 +201,7 @@ s3-ap-southeast-2.amazonaws.com
 agro.hk
 apkmirror.com
 boomssr.com
+blog.fuckgfw233.org
 glorystar.me
 jiji.com
 line-scdn.net
@@ -212,6 +213,8 @@ pixiv.net
 sulian.me
 i.lithium.com
 xm.com
+read01.com
+kknews.cc
 china-mmm.jp.net
 lsxszzg.com
 china-mmm.net
@@ -1442,6 +1445,7 @@ cristyli.com
 crocotube.com
 crossthewall.net
 crossvpn.net
+crucial.com
 csdparty.com
 csuchen.de
 csw.org.uk
@@ -4374,6 +4378,7 @@ tuvpn.com
 tuzaijidi.com
 tw01.org
 tumblr.com
+lecloud.net
 cosmic.monar.ch
 slutmoonbeam.com
 blog.soylent.com
