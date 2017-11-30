@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-11-26 06:00:02
+!--- 2017-12-01 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -51,6 +51,7 @@ dm530.net
 share.dmhy.org
 dmm.co.jp
 www.dmm.com
+dnvod.tv
 eesti.ee
 expekt.com
 extmatrix.com
@@ -58,7 +59,6 @@ fakku.net
 fastpic.ru
 filesor.com
 financetwitter.com
-findmima.com
 flipboard.com
 flitto.com
 funkyimg.com
@@ -209,7 +209,9 @@ cloud.mail.ru
 cdn-images.mailchimp.com
 go.nesnode.com
 nikkei.com
+my.pcloud.com
 pixiv.net
+secure.raxcdn.com
 sulian.me
 i.lithium.com
 xm.com
@@ -571,7 +573,6 @@ googleplay.com
 googleplus.com
 googlescholar.com
 googlesource.com
-googlesyndication.com
 googleusercontent.com
 googlevideo.com
 googleweblight.com
@@ -818,6 +819,7 @@ afantibbs.com
 ai-kan.net
 ai-wen.net
 aiph.net
+airasia.com
 airconsole.com
 download.aircrack-ng.org
 airvpn.org
@@ -875,6 +877,7 @@ amnesty.tw
 amnestyusa.org
 amnyemachen.org
 amoiist.com
+amtb-taipei.org
 androidplus.co
 andygod.com
 annatam.com
@@ -1364,6 +1367,7 @@ citizenscommission.hk
 citizensradio.org
 city365.ca
 city9x.com
+citypopulation.de
 citytalk.tw
 civicparty.hk
 civildisobediencemovement.org
@@ -2387,6 +2391,7 @@ huaglad.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
+m.huaren4us.com
 huashangnews.com
 bbs.huasing.org
 huaxia-news.com
@@ -2409,6 +2414,7 @@ hut2.ru
 hutianyi.net
 hutong9.net
 huyandex.com
+hwadzan.tw
 hwayue.org.tw
 hwinfo.com
 hxwk.org
@@ -2635,6 +2641,7 @@ weiboscope.jmsc.hku.hk
 jmscult.com
 joachims.org
 jobso.tv
+sunwinism.joinbbs.net
 journalchretien.net
 journalofdemocracy.org
 joymiihub.com
@@ -3626,6 +3633,7 @@ readingtimes.com.tw
 readmoo.com
 readydown.com
 realcourage.org
+realitykings.com
 realraptalk.com
 realsexpass.com
 recordhistory.org
@@ -4841,6 +4849,7 @@ worldvpn.net
 wordpress.com
 cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
+freedominfonetweb.wordpress.com
 hka8964.wordpress.com
 hkanews.wordpress.com
 hqsbonline.wordpress.com
@@ -5008,6 +5017,7 @@ yuanming.net
 yuanzhengtang.org
 yulghun.com
 yunchao.net
+yuntipub.com
 yuvutu.com
 yvesgeleyn.com
 ywpw.com
@@ -5032,6 +5042,7 @@ zgzcjj.net
 zhanbin.net
 zhangboli.net
 zhangtianliang.com
+zhanlve.org
 zhenghui.org
 zhengwunet.org
 zhenlibu.info
