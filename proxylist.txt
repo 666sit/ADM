@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2017-12-11 06:00:02
+!--- 2017-12-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -621,6 +621,7 @@ webrtc.org
 whatbrowser.org
 widevine.com
 withgoogle.com
+withyoutube.com
 x.company
 xn--ngstr-lra8j.com
 youtu.be
@@ -651,7 +652,9 @@ telegramdownload.com
 periscope.tv
 pscp.tv
 t.co
+tweetdeck.com
 twimg.com
+twitpic.com
 twitter.com
 twitter.jp
 vine.co
@@ -4423,7 +4426,6 @@ tweetbackup.com
 tweetboard.com
 tweetboner.biz
 tweetcs.com
-tweetdeck.com
 deck.ly
 mtw.tl
 tweetedtimes.com
@@ -4469,7 +4471,6 @@ tl.gd
 twitmania.com
 twitoaster.com
 twitonmsn.com
-twitpic.com
 twit2d.com
 twitstat.com
 firstfivefollowers.com
@@ -4825,6 +4826,7 @@ vegas.williamhill.com
 willw.net
 windowsphoneme.com
 windscribe.com
+community.windy.com
 wingy.site
 winning11.com
 winwhispers.info
