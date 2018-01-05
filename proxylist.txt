@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-01-01 06:00:02
+!--- 2018-01-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -694,6 +694,7 @@ duckduckgo-owned-server.yahoo.net
 030buy.com
 0rz.tw
 1-apple.com.tw
+10.tt
 100ke.org
 1000giri.net
 10conditionsoflove.com
@@ -1959,6 +1960,7 @@ cn.freeones.com
 freeoz.org
 freessh.us
 free-ssh.com
+freechina.news
 freechinaforum.org
 freedomcollection.org
 freeforums.org
@@ -3527,6 +3529,7 @@ pttvan.org
 pubu.com.tw
 puffinbrowser.com
 pureinsight.org
+pushchinawall.com
 putty.org
 calebelston.com
 blog.fizzik.com
@@ -4015,7 +4018,7 @@ stickam.com
 stickeraction.com
 stileproject.com
 sto.cc
-stoneip.info
+stoporganharvesting.org
 storagenewsletter.com
 storm.mg
 stoptibetcrisis.net
@@ -4062,7 +4065,6 @@ suyangg.com
 svsfx.com
 swissvpn.net
 switchvpn.net
-swift-tools.net
 sydneytoday.com
 sylfoundation.org
 syncback.com
@@ -4324,7 +4326,6 @@ toptip.ca
 tora.to
 torcn.com
 torproject.org
-torrentcrazy.com
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -4509,7 +4510,6 @@ twurl.nl
 twyac.org
 txxx.com
 tycool.com
-tzangms.com
 typepad.com
 blog.expofutures.com
 legaltech.law.com
@@ -5070,6 +5070,7 @@ zhongguo.ca
 zhongguorenquan.org
 zhongguotese.net
 zhongmeng.org
+zhoushuguang.com
 zhreader.com
 zhuangbi.me
 zhuanxing.cn
