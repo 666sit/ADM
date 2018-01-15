@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-01-11 06:00:02
+!--- 2018-01-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -209,9 +209,11 @@ line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
+dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
 my.pcloud.com
+picacomic.com
 pixiv.net
 secure.raxcdn.com
 sosreader.com
@@ -672,6 +674,7 @@ search.yahoo.co.jp
 buy.yahoo.com.tw
 hk.yahoo.com
 hk.knowledge.yahoo.com
+tw.money.yahoo.com
 hk.myblog.yahoo.com
 news.yahoo.com
 hk.news.yahoo.com
@@ -808,6 +811,7 @@ aceros-de-hispania.com
 acevpn.com
 acg18.me
 acgkj.com
+acmedia365.com
 acnw.com.au
 actfortibet.org
 actimes.com.au
@@ -970,6 +974,7 @@ atdmt.com
 atlanta168.com
 atnext.com
 ice.audionow.com
+av.movie
 avaaz.org
 avbody.tv
 avcity.tv
@@ -1595,6 +1600,7 @@ dolf.org.hk
 dollf.com
 domain.club.tw
 domaintoday.com.au
+chinese.donga.com
 dongtaiwang.com
 dongtaiwang.net
 dongyangjing.com
@@ -3011,12 +3017,14 @@ mist.vip
 thecenter.mit.edu
 mitao.com.tw
 mitbbs.com
+mitbbsau.com
 mixero.com
 mixpod.com
 mixx.com
 mizzmona.com
 mk5000.com
 mlcool.com
+mm-cg.com
 mmaaxx.com
 mmmca.com
 mnewstv.com
@@ -3433,6 +3441,7 @@ phncdn.com
 photodharma.net
 photofocus.com
 phuquocservices.com
+picacomiccn.com
 picidae.net
 picturesocial.com
 pin-cong.com
@@ -3696,7 +3705,6 @@ rmjdw132.info
 roadshow.hk
 roboforex.com
 robustnessiskey.com
-roc-taiwan.org
 rocket-inc.net
 www2.rocketbbs.com
 rojo.com
@@ -4092,7 +4100,6 @@ taiwanbible.com
 taiwancon.com
 taiwandaily.net
 taiwandc.org
-taiwanembassy.org
 taiwanjustice.com
 taiwankiss.com
 taiwannation.com
@@ -4100,7 +4107,6 @@ taiwannation.com.tw
 taiwanncf.org.tw
 taiwannews.com.tw
 www.taiwanonline.cc
-taiwantoday.tw
 taiwantp.net
 taiwantt.org.tw
 taiwanus.net
@@ -5094,7 +5100,7 @@ zootool.com
 zoozle.net
 writer.zoho.com
 zpn.im
-zshare.net
+zspeeder.me
 zsrhao.com
 zuo.la
 zuobiao.me
