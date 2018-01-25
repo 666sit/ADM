@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-01-21 06:00:01
+!--- 2018-01-26 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -648,6 +648,8 @@ nytimg.com
 userapi.nytlog.com
 cn.nytstyle.com
 nytstyle.com
+steamcommunity.com
+store.steampowered.com
 updates.tdesktop.com
 telegram.dog
 telegram.me
@@ -707,6 +709,7 @@ duckduckgo-owned-server.yahoo.net
 12vpn.com
 12vpn.net
 141hongkong.com
+141jj.com
 141tube.com
 1688.com.au
 173ng.com
@@ -1604,6 +1607,7 @@ chinese.donga.com
 dongtaiwang.com
 dongtaiwang.net
 dongyangjing.com
+danbooru.donmai.us
 dontfilter.us
 dontmovetochina.com
 dorjeshugden.com
@@ -3113,6 +3117,7 @@ mymusic.net.tw
 myparagliding.com
 mypopescu.com
 myradio.hk
+myreadingmanga.info
 mysinablog.com
 myspace.com
 myspacecdn.com
@@ -3699,6 +3704,7 @@ rigpa.org
 rileyguide.com
 riku.me
 ritouki.jp
+ritter.vg
 rlwlw.com
 rmjdw.com
 rmjdw132.info
@@ -4014,7 +4020,6 @@ startpage.com
 startuplivingchina.com
 static-economist.com
 stc.com.sa
-steamcommunity.com
 steel-storm.com
 steganos.com
 steganos.net
