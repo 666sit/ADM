@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-02-11 06:00:01
+!--- 2018-02-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -4382,6 +4382,7 @@ tubegals.com
 tubeislam.com
 tubestack.com
 tubewolf.com
+tuibeitu.net
 tuidang.net
 tuidang.org
 tuidang.se
@@ -5092,6 +5093,7 @@ ziddu.com
 zillionk.com
 zinio.com
 ziporn.com
+zippyshare.com
 zkaip.com
 realforum.zkiz.com
 zmw.cn
