@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-03-06 06:00:01
+!--- 2018-03-11 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -203,6 +203,7 @@ s3-ap-southeast-2.amazonaws.com
 agro.hk
 apkmirror.com
 boomssr.com
+castbox.fm
 blog.fuckgfw233.org
 glorystar.me
 jiji.com
@@ -217,6 +218,7 @@ my.pcloud.com
 picacomic.com
 pixiv.net
 secure.raxcdn.com
+shadowsocks9.com
 sosreader.com
 sulian.me
 unseen.is
@@ -657,6 +659,7 @@ telegram.dog
 telegram.me
 telegram.org
 telegramdownload.com
+telesco.pe
 periscope.tv
 pscp.tv
 t.co
@@ -951,7 +954,6 @@ areca-backup.org
 arethusa.su
 arlingtoncemetery.mil
 army.mil
-arstechnica.com
 art4tibet1998.org
 artofpeacefoundation.org
 artsy.net
@@ -3318,6 +3320,7 @@ onedrive.live.com
 onion.city
 onlinecha.com
 onlineyoutube.com
+onlytweets.com
 onmoon.net
 onmoon.com
 onthehunt.com
@@ -3608,6 +3611,7 @@ qanote.com
 qgirl.com.tw
 qiandao.today
 qi-gong.me
+qiangyou.org
 qidian.ca
 qienkuen.org
 qiwen.lu
