@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-03-11 06:00:01
+!--- 2018-03-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -224,6 +224,7 @@ sulian.me
 unseen.is
 cn.uptodown.com
 xm.com
+xuehua.us
 read01.com
 kknews.cc
 china-mmm.jp.net
@@ -1256,6 +1257,7 @@ cclife.ca
 cclife.org
 cclifefl.org
 ccthere.com
+cctmweb.net
 cctongbao.com
 ccue.ca
 ccue.com
@@ -2419,7 +2421,7 @@ huaglad.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
-m.huaren4us.com
+huaren4us.com
 huashangnews.com
 bbs.huasing.org
 huaxia-news.com
