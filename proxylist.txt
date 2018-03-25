@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-03-21 06:00:01
+!--- 2018-03-26 06:00:04
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -200,11 +200,14 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
+bitmex.com
 agro.hk
 apkmirror.com
 boomssr.com
 castbox.fm
+depositphotos.com
 blog.fuckgfw233.org
+globalvoices.org
 glorystar.me
 jiji.com
 line-scdn.net
@@ -223,6 +226,7 @@ sosreader.com
 sulian.me
 unseen.is
 cn.uptodown.com
+wire.com
 xm.com
 xuehua.us
 read01.com
@@ -1673,8 +1677,7 @@ dynawebinc.com
 dzze.com
 e-classical.com.tw
 e-gold.com
-g.e-hentai.org
-lofi.e-hentai.org
+e-hentai.org
 e-hentaidb.com
 e-info.org.tw
 e-traderland.net
@@ -2621,6 +2624,7 @@ jamyangnorbu.com
 jandyx.com
 janwongphoto.com
 japan-whores.com
+jav.com
 jav101.com
 jav2be.com
 jav68.tv
@@ -4201,6 +4205,7 @@ thetibetcenter.org
 thetibetconnection.org
 thetibetmuseum.org
 thetibetpost.com
+thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
@@ -5081,6 +5086,7 @@ zhangboli.net
 zhangtianliang.com
 zhanlve.org
 zhenghui.org
+zhengjian.org
 zhengwunet.org
 zhenlibu.info
 zhenlibu1984.com
