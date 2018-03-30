@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-03-26 06:00:04
+!--- 2018-03-31 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -201,11 +201,15 @@ xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
 bitmex.com
+huobi.com
+huobi.pro
+huobipro.com
 agro.hk
 apkmirror.com
 boomssr.com
 castbox.fm
 depositphotos.com
+fangeqiang.com
 blog.fuckgfw233.org
 globalvoices.org
 glorystar.me
@@ -794,6 +798,7 @@ taiwannation.50webs.com
 881903.com
 888.com
 888poker.com
+89.64.charter.constitutionalism.solutions
 89-64.org
 8news.com.tw
 8z1.net
@@ -5120,6 +5125,7 @@ zoogvpn.com
 zootool.com
 zoozle.net
 writer.zoho.com
+zorrovpn.com
 zpn.im
 zspeeder.me
 zsrhao.com
