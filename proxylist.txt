@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-04-06 06:00:02
+!--- 2018-04-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -21,6 +21,7 @@ agnesb.fr
 akiba-web.com
 alien-ufos.com
 altrec.com
+apartments.com
 arena.taipei
 asianspiss.com
 assimp.org
@@ -200,10 +201,16 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
+binance.com
+bitfinex.com
 bitmex.com
+hitbtc.com
 huobi.com
 huobi.pro
 huobipro.com
+livecoin.net
+okex.com
+zb.com
 agro.hk
 apkmirror.com
 boomssr.com
@@ -1249,6 +1256,7 @@ caribbeancom.com
 casinoking.com
 casinoriva.com
 catch22.net
+catchgod.com
 catfightpayperview.xxx
 catholic.org.hk
 catholic.org.tw
@@ -1566,7 +1574,6 @@ dcard.tw
 dcmilitary.com
 ddc.com.tw
 ddhw.info
-ddns.net
 de-sci.org
 packages.debian.org
 decodet.co
@@ -3238,6 +3245,7 @@ niusnews.com
 njactb.org
 njuice.com
 nlfreevpn.com
+ddns.net
 gooddns.info
 gotdns.ch
 maildns.xyz
@@ -4713,6 +4721,7 @@ vpncoupons.com
 vpndada.com
 vpnfan.com
 vpnfire.com
+vpnfires.biz
 vpnforgame.net
 vpngate.jp
 vpngate.net
@@ -4891,8 +4900,9 @@ worldcat.org
 worldjournal.com
 worldvpn.net
 wordpress.com
-cnbbnews.wordpress.com
 chenshan20042005.wordpress.com
+chinaview.wordpress.com
+cnbbnews.wordpress.com
 freedominfonetweb.wordpress.com
 hka8964.wordpress.com
 hkanews.wordpress.com
@@ -4903,6 +4913,7 @@ jobnewera.wordpress.com
 minghuiyw.wordpress.com
 wo3ttt.wordpress.com
 sujiatun.wordpress.com
+xijie.wordpress.com
 wp.com
 wow.com
 wow-life.net
