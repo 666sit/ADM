@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-04-21 06:00:02
+!--- 2018-04-26 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -191,6 +191,7 @@ ytn.co.kr
 zattoo.com
 zim.vn
 zozotown.com
+1.1.1.1
 14.102.250.18
 14.102.250.19
 50.7.31.230
@@ -204,6 +205,8 @@ s3-ap-southeast-2.amazonaws.com
 binance.com
 bitfinex.com
 bitmex.com
+coinegg.com
+gate.io
 hitbtc.com
 huobi.com
 huobi.pro
@@ -220,6 +223,7 @@ fangeqiang.com
 blog.fuckgfw233.org
 globalvoices.org
 glorystar.me
+ipfs.io
 jiji.com
 line-scdn.net
 i.lithium.com
@@ -228,6 +232,7 @@ cdn-images.mailchimp.com
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
+paste.ee
 my.pcloud.com
 picacomic.com
 pixiv.net
@@ -870,6 +875,7 @@ a248.e.akamai.net
 voa-11.akacast.akamaistream.net
 akademiye.org
 akiba-online.com
+akow.org
 al-islam.com
 al-qimmah.net
 alabout.com
@@ -963,9 +969,11 @@ appshopper.com
 appsocks.net
 appsto.re
 archives.gov
-archive.is
 archive.fo
+archive.is
+archive.li
 archive.org
+archive.today
 arctosia.com
 areca-backup.org
 arethusa.su
@@ -1193,6 +1201,7 @@ btdigg.org
 btku.me
 btku.org
 btspread.com
+btsynckeys.com
 budaedu.org
 buddhanet.com.tw
 buddhistchannel.tv
@@ -1402,6 +1411,7 @@ cienen.com
 cineastentreff.de
 cipfg.org
 circlethebayfortibet.org
+cirosantilli.com
 citizencn.com
 citizenlab.org
 www.citizenlab.org
@@ -1483,6 +1493,7 @@ cpj.org
 cq99.us
 crackle.com
 crazys.cc
+crazyshit.com
 crchina.org
 crd-net.org
 creaders.net
@@ -2130,6 +2141,7 @@ gigporno.ru
 girlbanker.com
 git.io
 softwaredownload.gitbooks.io
+github.com
 gist.github.com
 haoel.github.io
 sodatea.github.io
@@ -3297,7 +3309,6 @@ nvquan.org
 nvtongzhisheng.org
 nwtca.org
 nyaa.eu
-nyaa.si
 nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
@@ -3925,6 +3936,7 @@ sierrafriendsoftibet.org
 sis.xxx
 sis001.com
 sis001.us
+site2unblock.com
 site90.net
 sitebro.tw
 sitekreator.com
@@ -4095,6 +4107,7 @@ sunvpn.net
 suoluo.org
 superfreevpn.com
 supervpn.net
+superzooi.com
 suppig.net
 suprememastertv.com
 surfeasy.com
@@ -4183,6 +4196,7 @@ tcpspeed.com
 tcsofbc.org
 tcsovi.org
 teamamericany.com
+techviz.net
 teck.in
 teeniefuck.net
 teensinasia.com
@@ -4222,6 +4236,7 @@ thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
+theync.com
 thinkingtaiwan.com
 thisav.com
 thlib.org
