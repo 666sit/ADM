@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-05-06 06:00:02
+!--- 2018-05-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -202,6 +202,7 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
+big.one
 binance.com
 bitfinex.com
 bitmex.com
@@ -519,6 +520,7 @@ feedburner.com
 firebaseio.com
 g.co
 gcr.io
+get.app
 get.how
 getmdl.io
 ggpht.com
@@ -627,6 +629,7 @@ panoramio.com
 picasaweb.com
 polymer-project.org
 questvisual.com
+admin.recaptcha.net
 api.recaptcha.net
 api-secure.recaptcha.net
 api-verify.recaptcha.net
@@ -1015,6 +1018,7 @@ avcool.com
 avdb.in
 avdb.tv
 avfantasy.com
+avgle.com
 avidemux.org
 avoision.com
 avyahoo.com
@@ -2220,6 +2224,7 @@ greenvpn.org
 gs-discuss.com
 gtricks.com
 guancha.org
+guaneryu.com
 guardster.com
 gun-world.net
 gunsandammo.com
@@ -2931,6 +2936,7 @@ lzmtnews.org
 macrovpn.com
 macts.com.tw
 mad-ar.ch
+madrau.com
 madthumbs.com
 magic-net.info
 mahabodhi.org
