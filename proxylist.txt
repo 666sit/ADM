@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-05-11 06:00:02
+!--- 2018-05-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -13,13 +13,9 @@ btaia.com
 bt2mag.com
 iobit.com
 t.me
-2dbook.com
-4tern.com
 85.17.73.31
-adorama.com
 agnesb.fr
 akiba-web.com
-alien-ufos.com
 altrec.com
 apartments.com
 arena.taipei
@@ -179,6 +175,7 @@ vegasred.com
 vevo.com
 vip-enterprise.com
 viu.tv
+vmpsoft.com
 ecsm.vs.com
 wanz-factory.com
 ssl.webpack.de
@@ -202,23 +199,11 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
-big.one
-binance.com
-bitfinex.com
-bitmex.com
-coinegg.com
-gate.io
-hitbtc.com
-huobi.com
-huobi.pro
-huobipro.com
-livecoin.net
-okex.com
-zb.com
 agro.hk
 apkmirror.com
 boomssr.com
 castbox.fm
+cmx.im
 depositphotos.com
 fangeqiang.com
 blog.fuckgfw233.org
@@ -246,6 +231,57 @@ cn.uptodown.com
 wire.com
 xm.com
 xuehua.us
+allcoin.com
+adcex.com
+bcex.ca
+bibox.com
+big.one
+binance.com
+bit-z.com
+bitcoinworld.com
+bitfinex.com
+bitinka.com.ar
+bitmex.com
+btcbank.bank
+btctrade.im
+c2cx.com
+chaoex.com
+coin2co.in
+coinegg.com
+coinex.com
+www.coinexchange.io
+coingi.com
+coinrail.co.kr
+cointobe.com
+coinut.com
+discoins.com
+dragonex.io
+ebtcbank.com
+etherdelta.com
+exmo.com
+exrates.me
+exx.com
+fatbtc.com
+gate.io
+gatecoin.com
+hitbtc.com
+huobi.com
+huobi.pro
+huobipro.com
+bx.in.th
+jex.com
+kex.com
+kspcoin.com
+kucoin.com
+lbank.info
+livecoin.net
+oex.com
+okex.com
+rightbtc.com
+topbtc.com
+xbtce.com
+yobit.net
+zb.com
 read01.com
 kknews.cc
 china-mmm.jp.net
@@ -480,7 +516,10 @@ oculus.com
 oculuscdn.com
 rocksdb.org
 thefacebook.com
+www.whatsapp.com
 whatsapp.net
+www.ftchinese.com
+ftchinese.com
 1e100.net
 466453.com
 abc.xyz
@@ -497,6 +536,7 @@ blog.google
 blogblog.com
 blogspot.hk
 blogspot.jp
+blogspot.tw
 certificate-transparency.org
 chrome.com
 chromecast.com
@@ -695,6 +735,8 @@ twitter.jp
 vine.co
 gov.taipei
 gov.tw
+teco-hk.org
+teco-mo.org
 kinmen.org.tw
 v2ex.com
 data.flurry.com
@@ -1033,6 +1075,7 @@ backtotiananmen.com
 badjojo.com
 badoo.com
 baidu.jp
+baijie.org
 bailandaily.com
 baixing.me
 bakgeekhome.tk
@@ -1317,6 +1360,7 @@ centerforhumanreprod.com
 centralnation.com
 centurys.net
 cfhks.org.hk
+cfos.de
 cftfc.com
 cgst.edu
 change.org
@@ -1668,6 +1712,7 @@ drmingxia.org
 dropbooks.tv
 dropbox.com
 api.dropboxapi.com
+notify.dropboxapi.com
 dropboxusercontent.com
 drsunacademy.com
 drtuber.com
@@ -1928,6 +1973,7 @@ filthdump.com
 finchvpn.com
 findmespot.com
 findyoutube.com
+findyoutube.net
 fingerdaily.com
 finler.net
 firearmsworld.net
@@ -2040,8 +2086,6 @@ frontlinedefenders.org
 frootvpn.com
 fscked.org
 fsurf.com
-www.ftchinese.com
-ftchinese.com
 ftv.com.tw
 fucd.com
 fuckcnnic.net
@@ -2133,7 +2177,6 @@ gfsale.com
 gfw.org.ua
 gfw.press
 ggssl.com
-ghost.org
 ghostpath.com
 ghut.org
 giantessnight.com
@@ -2994,7 +3037,6 @@ megarotic.com
 megavideo.com
 megurineluka.com
 meirixiaochao.com
-melon-peach.com
 meltoday.com
 memehk.com
 memorybbs.com
@@ -4614,6 +4656,7 @@ uni.cc
 cldr.unicode.org
 unification.net
 unification.org.tw
+unirule.cloud
 unitedsocialpress.com
 unix100.com
 unknownspace.org
