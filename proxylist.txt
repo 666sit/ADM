@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-05-21 06:00:02
+!--- 2018-05-26 06:00:03
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -70,6 +70,7 @@ go141.com
 guo.media
 hautelook.com
 hautelookcdn.com
+wego.here.com
 hmvdigital.ca
 hmvdigital.com
 homedepot.com
@@ -215,6 +216,7 @@ line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
+mohu.ml
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
@@ -222,10 +224,17 @@ paste.ee
 my.pcloud.com
 picacomic.com
 pixiv.net
+cdn.seatguru.com
 secure.raxcdn.com
 shadowsocks9.com
+tn1.shemalez.com
+tn2.shemalez.com
+tn3.shemalez.com
+static.shemalez.com
 sosreader.com
 sulian.me
+tineye.com
+tubepornclassic.com
 unseen.is
 cn.uptodown.com
 wire.com
@@ -1589,6 +1598,7 @@ dadi360.com
 dafagood.com
 dafahao.com
 dafoh.org
+daftporn.com
 dagelijksestandaard.nl
 daidostup.ru
 dailidaili.com
@@ -2264,6 +2274,7 @@ greatzhonghua.org
 greenpeace.com.tw
 greenvpn.net
 greenvpn.org
+grotty-monday.com
 gs-discuss.com
 gtricks.com
 guancha.org
@@ -2344,6 +2355,7 @@ hdlt.me
 hdtvb.net
 hdzog.com
 heartyit.com
+heavy-r.com
 hec.su
 hecaitou.net
 hechaji.com
@@ -4263,6 +4275,7 @@ www.thechinastory.org
 thedalailamamovie.com
 thedw.us
 thefrontier.hk
+cn.thegay.com
 thegioitinhoc.vn
 thegly.com
 thehots.info
@@ -4755,6 +4768,7 @@ viu.com
 vivahentai4u.net
 vivatube.com
 vivthomas.com
+vjav.com
 vjmedia.com.hk
 vllcs.org
 vmixcore.com
@@ -5109,6 +5123,7 @@ yizhihongxing.com
 yobt.com
 yobt.tv
 yogichen.org
+yolasite.com
 yong.hu
 yorkbbs.ca
 youxu.info
