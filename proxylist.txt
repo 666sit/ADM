@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-05-26 06:00:03
+!--- 2018-05-31 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -202,6 +202,7 @@ xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
 agro.hk
 apkmirror.com
+bird.so
 boomssr.com
 castbox.fm
 cmx.im
@@ -220,6 +221,7 @@ mohu.ml
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
+sukebei.nyaa.si
 paste.ee
 my.pcloud.com
 picacomic.com
@@ -233,10 +235,14 @@ tn3.shemalez.com
 static.shemalez.com
 sosreader.com
 sulian.me
+textnow.me
 tineye.com
 tubepornclassic.com
+uku.im
 unseen.is
 cn.uptodown.com
+scache.vzw.com
+ss7.vzw.com
 wire.com
 xm.com
 xuehua.us
@@ -572,6 +578,7 @@ gcr.io
 get.app
 get.how
 getmdl.io
+getoutline.org
 ggpht.com
 gmail.com
 gmodules.com
@@ -1022,6 +1029,7 @@ appledaily.com
 appshopper.com
 appsocks.net
 appsto.re
+aptoide.com
 archives.gov
 archive.fo
 archive.is
@@ -1661,6 +1669,7 @@ dfn.org
 dharmakara.net
 dharamsalanet.com
 diaoyuislands.org
+difangwenge.org
 digiland.tw
 digitalnomadsproject.org
 diigo.com
@@ -2001,6 +2010,7 @@ flickriver.com
 fling.com
 flipkart.com
 flog.tw
+flyvpn.com
 cn.fmnnow.com
 fofldfradio.org
 blog.foolsmountain.com
@@ -2150,6 +2160,7 @@ gaybubble.com
 gaycn.net
 gayhub.com
 gaymap.cc
+gaymenring.com
 gaytube.com
 images-gaytube.com
 gaywatch.com
@@ -2200,8 +2211,11 @@ git.io
 softwaredownload.gitbooks.io
 github.com
 gist.github.com
+hahaxixi.github.io
 haoel.github.io
+sikaozhe1997.github.io
 sodatea.github.io
+terminus2049.github.io
 wsgzao.github.io
 gizlen.net
 gjczz.com
@@ -2488,6 +2502,7 @@ hotspotshield.com
 hotvpn.com
 hougaige.com
 howtoforge.com
+hoxx.com
 hqcdp.org
 hqjapanesesex.com
 hqmovies.com
@@ -3475,8 +3490,6 @@ eriversoft.com
 paldengyal.com
 paljorpublications.com
 paltalk.com
-pangci.net
-panacom.co.jp
 pandapow.co
 pandapow.net
 pandavpn-jp.com
@@ -4697,7 +4710,7 @@ us.to
 usacn.com
 usaip.eu
 dalailama.usc.edu
-beta.usejump.com
+iipdigital.usembassy.gov
 usfk.mil
 usma.edu
 usmc.mil
