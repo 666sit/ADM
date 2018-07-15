@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-07-11 06:00:20
+!--- 2018-07-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -17,6 +17,7 @@ t.me
 agnesb.fr
 akiba-web.com
 altrec.com
+apartmentratings.com
 apartments.com
 arena.taipei
 asianspiss.com
@@ -28,13 +29,16 @@ bash-hackers.org
 beeg.com
 global.bing.com
 bloombergview.com
+booktopia.com.au
 boysmaster.com
 bynet.co.il
 carfax.com
 casinobellini.com
 centauro.com.br
+chobit.cc
 images.comico.tw
 static.comico.tw
+costco.com
 crossfire.co.kr
 d2pass.com
 darpa.mil
@@ -42,6 +46,8 @@ dawangidc.com
 deezer.com
 desipro.de
 dingchin.com.tw
+discordapp.com
+discordapp.net
 dish.com
 img.dlsite.jp
 dm530.net
@@ -50,6 +56,7 @@ dmm.co.jp
 www.dmm.com
 dnvod.tv
 eesti.ee
+esurance.com
 expekt.com
 extmatrix.com
 fakku.net
@@ -58,6 +65,8 @@ filesor.com
 financetwitter.com
 flipboard.com
 flitto.com
+fnac.be
+fnac.com
 funkyimg.com
 fxnetworks.com
 g-area.org
@@ -145,6 +154,7 @@ pandora.tv
 parkansky.com
 phmsociety.org
 pure18.com
+pytorch.org
 qq.co.za
 r18.com
 radiko.jp
@@ -156,6 +166,7 @@ sadistic-v.com
 shiksha.com
 slacker.com
 sm-miracle.com
+soylentnews.org
 spotify.com
 spreadshirt.es
 springboardplatform.com
@@ -165,6 +176,8 @@ superpages.com
 swagbucks.com
 switch1.jp
 tapanwap.com
+gsp.target.com
+login.target.com
 thebodyshop-usa.com
 tma.co.jp
 tracfone.com
@@ -208,20 +221,26 @@ castbox.fm
 cmx.im
 depositphotos.com
 fangeqiang.com
+flyzy2005.com
+free-ss.site
 blog.fuckgfw233.org
 globalvoices.org
 glorystar.me
+hbo.com
 ipfs.io
 jiji.com
+jinx.com
 line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
 mohu.ml
+mastodon.host
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
 sukebei.nyaa.si
+onejav.com
 paste.ee
 my.pcloud.com
 picacomic.com
@@ -242,7 +261,11 @@ uku.im
 unseen.is
 cn.uptodown.com
 scache.vzw.com
+scache1.vzw.com
+scache2.vzw.com
 ss7.vzw.com
+wenzhao.ca
+whatsonweibo.com
 wire.com
 xm.com
 xuehua.us
@@ -541,6 +564,7 @@ abc.xyz
 admob.com
 adsense.com
 agoogleaday.com
+ai.google
 ampproject.org
 android.com
 androidify.com
@@ -795,6 +819,7 @@ duckduckgo-owned-server.yahoo.net
 12bet.com
 12vpn.com
 12vpn.net
+138.com
 141hongkong.com
 141jj.com
 141tube.com
@@ -1026,6 +1051,8 @@ apkpure.com
 aplusvpn.com
 appdownloader.net
 appledaily.com
+appledaily.com.hk
+appledaily.com.tw
 appshopper.com
 appsocks.net
 appsto.re
@@ -1070,6 +1097,7 @@ atnext.com
 ice.audionow.com
 av.com
 av.movie
+av-e-body.com
 avaaz.org
 avbody.tv
 avcity.tv
@@ -1089,6 +1117,7 @@ babynet.com.hk
 backchina.com
 backpackers.com.tw
 backtotiananmen.com
+badiucao.com
 badjojo.com
 badoo.com
 baidu.jp
@@ -1549,6 +1578,7 @@ coolaler.com
 coolder.com
 coolloud.org.tw
 coolncute.com
+coolstuffinc.com
 corumcollege.com
 cos-moe.com
 cosplayjav.pl
@@ -1603,6 +1633,7 @@ dabr.mobi
 dabr.me
 dadazim.com
 dadi360.com
+dafabet.com
 dafagood.com
 dafahao.com
 dafoh.org
@@ -2075,6 +2106,7 @@ freessh.us
 free-ssh.com
 freechina.news
 freechinaforum.org
+freechinaweibo.com
 freedomcollection.org
 freeforums.org
 freenetproject.org
@@ -2474,6 +2506,7 @@ hkvwet.com
 hkwcc.org.hk
 hkzone.org
 hmonghot.com
+hmv.co.jp
 hnjhj.com
 hnntube.com
 hola.com
@@ -2952,6 +2985,7 @@ liquidvpn.com
 greatfire.us7.list-manage.com
 listentoyoutube.com
 listorious.com
+liu-xiaobo.org
 liudejun.com
 liuhanyu.com
 liujianshu.com
@@ -3140,6 +3174,7 @@ mixx.com
 mizzmona.com
 mk5000.com
 mlcool.com
+mlzs.work
 mm-cg.com
 mmaaxx.com
 mmmca.com
@@ -3443,6 +3478,7 @@ openwebster.com
 openwrt.org.cn
 my.opera.com
 demo.opera-mini.net
+opus-gaming.com
 www.orchidbbs.com
 organcare.org.tw
 organharvestinvestigation.net
@@ -3602,6 +3638,7 @@ pmates.com
 po2b.com
 pobieramy.top
 podictionary.com
+pokerstars.com
 pokerstars.net
 zh.pokerstrategy.com
 politicalchina.org
@@ -3712,6 +3749,7 @@ pwned.com
 python.com
 python.com.tw
 pythonhackers.com
+ss.pythonic.life
 qanote.com
 qgirl.com.tw
 qiandao.today
@@ -4947,6 +4985,7 @@ wikileaks.org
 wikileaks.pl
 wikileaks-forum.com
 wildammo.com
+williamhill.com
 collateralmurder.com
 collateralmurder.org
 wikilivres.info
@@ -5140,6 +5179,7 @@ yobt.com
 yobt.tv
 yogichen.org
 yolasite.com
+yomiuri.co.jp
 yong.hu
 yorkbbs.ca
 youxu.info
