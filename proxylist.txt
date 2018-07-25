@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-07-21 06:00:03
+!--- 2018-07-26 06:00:06
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -241,6 +241,7 @@ mastodon.host
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
+now.com
 sukebei.nyaa.si
 onejav.com
 paste.ee
@@ -249,6 +250,7 @@ picacomic.com
 pixiv.net
 cdn.seatguru.com
 secure.raxcdn.com
+shadowsocks.be
 shadowsocks9.com
 tn1.shemalez.com
 tn2.shemalez.com
@@ -330,6 +332,7 @@ china-mmm.net
 china-mmm.sa.com
 allowed.org
 now.im
+amazon.co.jp
 amazon.com
 s3-ap-northeast-1.amazonaws.com
 aolchannels.aol.com
@@ -346,10 +349,8 @@ javmoo.xyz
 javtag.com
 javzoo.com
 tellme.pw
-bbc.co.uk
 bbc.com
-bbc.comzhongwen
-newsforums.bbc.co.uk
+bbc.co.uk
 bbcchinese.com
 bbc.in
 1dumb.com
@@ -3634,6 +3635,7 @@ plays.com.tw
 m.plixi.com
 plm.org.hk
 plunder.com
+plurk.com
 plus28.com
 plusbb.com
 pmatehunter.com
@@ -3646,6 +3648,7 @@ pokerstars.net
 zh.pokerstrategy.com
 politicalchina.org
 politicalconsultation.org
+politiscales.net
 poloniex.com
 polymerhk.com
 popo.tw
