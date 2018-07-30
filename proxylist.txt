@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-07-26 06:00:06
+!--- 2018-07-31 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -351,6 +351,7 @@ javzoo.com
 tellme.pw
 bbc.com
 bbc.co.uk
+bbci.co.uk
 bbcchinese.com
 bbc.in
 1dumb.com
