@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-08-01 06:00:24
+!--- 2018-08-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -24,6 +24,7 @@ asianspiss.com
 assimp.org
 athenaeizou.com
 azubu.tv
+bankmobilevibe.com
 banorte.com
 bash-hackers.org
 beeg.com
@@ -36,6 +37,7 @@ carfax.com
 casinobellini.com
 centauro.com.br
 chobit.cc
+clearsurance.com
 images.comico.tw
 static.comico.tw
 costco.com
@@ -220,6 +222,7 @@ apkmirror.com
 bird.so
 boomssr.com
 castbox.fm
+cmcn.org
 cmx.im
 depositphotos.com
 fangeqiang.com
@@ -236,6 +239,7 @@ line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
+mohu.club
 mohu.ml
 mastodon.host
 dictionary.goo.ne.jp
@@ -248,6 +252,7 @@ paste.ee
 my.pcloud.com
 picacomic.com
 pixiv.net
+quora.com
 cdn.seatguru.com
 secure.raxcdn.com
 shadowsocks.be
@@ -962,8 +967,11 @@ aiweiwei.com
 aiweiweiblog.com
 www.ajsands.com
 a248.e.akamai.net
+rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
+abematv.akamaized.net
 linear-abematv.akamaized.net
+vod-abematv.akamaized.net
 akademiye.org
 akiba-online.com
 akow.org
@@ -3778,7 +3786,6 @@ quannengshen.org
 quantumbooter.net
 quitccp.net
 quitccp.org
-quora.com
 quran.com
 quranexplorer.com
 qusi8.net
