@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-08-06 06:00:02
+!--- 2018-08-16 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -57,6 +57,7 @@ share.dmhy.org
 dmm.co.jp
 www.dmm.com
 dnvod.tv
+dvdpac.com
 eesti.ee
 esurance.com
 expekt.com
@@ -181,6 +182,7 @@ switch1.jp
 tapanwap.com
 gsp.target.com
 login.target.com
+rcam.target.com
 thebodyshop-usa.com
 tma.co.jp
 tracfone.com
@@ -215,6 +217,7 @@ zozotown.com
 xn--4gq171p.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
+xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
 agro.hk
@@ -245,6 +248,7 @@ mastodon.host
 dictionary.goo.ne.jp
 go.nesnode.com
 nikkei.com
+nofile.io
 now.com
 sukebei.nyaa.si
 onejav.com
@@ -252,9 +256,15 @@ paste.ee
 my.pcloud.com
 picacomic.com
 pixiv.net
+protonvpn.com
 quora.com
 cdn.seatguru.com
 secure.raxcdn.com
+redd.it
+reddit.com
+redditmedia.com
+redditstatic.com
+rsdlmonitor.com
 shadowsocks.be
 shadowsocks9.com
 tn1.shemalez.com
@@ -263,12 +273,15 @@ tn3.shemalez.com
 static.shemalez.com
 sosreader.com
 sulian.me
+teddysun.com
 textnow.me
 tineye.com
 tubepornclassic.com
 uku.im
 unseen.is
 cn.uptodown.com
+uraban.me
+vrsmash.com
 scache.vzw.com
 scache1.vzw.com
 scache2.vzw.com
@@ -296,7 +309,6 @@ chaoex.com
 coin2co.in
 coinegg.com
 coinex.com
-www.coinexchange.io
 coingi.com
 coinrail.co.kr
 cointobe.com
@@ -1495,6 +1507,7 @@ chinesedailynews.com
 chinesedemocracy.com
 chinesegay.org
 chinesen.de
+chinesenews.net.au
 chinesepen.org
 chinesetalks.net
 chineseupress.com
@@ -1628,6 +1641,7 @@ culture.tw
 cumlouder.com
 curvefish.com
 cusu.hk
+cutscenes.net
 cw.com.tw
 forum.cyberctm.com
 cyberghostvpn.com
@@ -4171,6 +4185,7 @@ ssglobal.co
 ssglobal.me
 ssh91.com
 sspro.ml
+ssrshare.com
 sss.camp
 sstmlt.moe
 sstmlt.net
@@ -4633,6 +4648,7 @@ twibase.com
 twibble.de
 twibbon.com
 twibs.com
+twicountry.org
 twicsy.com
 twiends.com
 twifan.com
@@ -4830,6 +4846,7 @@ vimperator.org
 vincnd.com
 vinniev.com
 www.lib.virginia.edu
+virtualrealporn.com
 visibletweets.com
 ny.visiontimes.com
 vital247.org
@@ -5107,6 +5124,7 @@ destiny.xfiles.to
 xfm.pp.ru
 xgmyd.com
 xhamster.com
+xianba.net
 xianchawang.net
 xianjian.tw
 xianqiao.net
@@ -5235,6 +5253,7 @@ yzzk.com
 zacebook.com
 zalmos.com
 zannel.com
+zaobao.com
 zaobao.com.sg
 zaozon.com
 zdnet.com.tw
